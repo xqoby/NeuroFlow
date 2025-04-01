@@ -1,0 +1,15 @@
+{
+    "shikra_path": "./model_weights/shikra-7b",
+    "model_path": "./train_logs/demo_single_subject/sub01_v4/last217.pth",
+    "adapter_path": "./model_weights/mm_projector.bin",
+    "fmri_encoder": "NeuroFlow",
+    "use_norm": false,
+    "use_token": false,
+    "feat_dim": 1024,
+    "data_path": "nsd_data",
+    "save_path": "evaluation/eval_caption/train_v4",
+    "save_image": false,
+    "prompt": "Describe this image <image> as simply as possible.",
+    "subj": 1,
+    "seed": 42
+}

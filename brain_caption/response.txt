@@ -1,0 +1,3928 @@
+response_0: 
+ A group of people working together in a kitchen.</s>
+response_1: 
+ A man cooking in a kitchen with a lot of food.</s>
+response_2: 
+ A surfer is riding a small wave in the ocean.</s>
+response_3: 
+ A large kite is on the water near the shore.</s>
+response_4: 
+ An old building with a lot of windows and a pointy top.</s>
+response_5: 
+ A close-up of a plate of food containing broccoli.</s>
+response_6: 
+ A close up of a half of a peeled banana.</s>
+response_7: 
+ A group of people playing a game of frisbee.</s>
+response_8: 
+ A large dark colored cat standing up with it's front paws on a rocky surface and it's back paws on a grassy surface.</s>
+response_9: 
+ A surfer is riding a wave in the ocean.</s>
+response_10: 
+ A large jetliner flying through a gray sky.</s>
+response_11: 
+ A man riding a wave on top of a surfboard.</s>
+response_12: 
+ A bear is walking along in the water.</s>
+response_13: 
+ A woman sitting in a chair in a living room.</s>
+response_14: 
+ A large body of water next to a city.</s>
+response_15: 
+ A living room filled with furniture and a large window.</s>
+response_16: 
+ A man in a suit looking towards the camera</s>
+response_17: 
+ A herd of cattle grazing on a lush grass covered field.</s>
+response_18: 
+ A man holding a tennis racquet on a tennis court.</s>
+response_19: 
+ A bathroom with a toilet, a shower and a mirror.</s>
+response_20: 
+ A man sitting on top of a bed in a room.</s>
+response_21: 
+ A group of men are dressed in suits.</s>
+response_22: 
+ A clock tower on a building with a clock on it's side.</s>
+response_23: 
+ Two people are walking through a forest side by side.</s>
+response_24: 
+ A giraffe standing in the middle of a grassy field.</s>
+response_25: 
+ A group of cars parked next to each other.</s>
+response_26: 
+ A plate holds a group of fruits.</s>
+response_27: 
+ A small airplane sitting on top of a runway.</s>
+response_28: 
+ Two birds with black and white feathers sit in a tree.</s>
+response_29: 
+ A girl sits on a bed with a white sheet.</s>
+response_30: 
+ A banana is cut into a piece on a plate.</s>
+response_31: 
+ A living room filled with furniture and a TV.</s>
+response_32: 
+ A living room with a large couch and several chairs.</s>
+response_33: 
+ A kitchen with a stove and cabinets in it.</s>
+response_34: 
+ A large pizza sitting on top of a pizza pan.</s>
+response_35: 
+ The large hill overlooks a town of cars and a few buildings.</s>
+response_36: 
+ A bus driving down a street near buildings.</s>
+response_37: 
+ A close up of a plate of food with bread</s>
+response_38: 
+ A man is holding a tennis racket in his hand.</s>
+response_39: 
+ A group of boats floating in a lake near trees.</s>
+response_40: 
+ A man standing with his left hand behind his back.</s>
+response_41: 
+ A giraffe standing in a grassy area with trees in the background.</s>
+response_42: 
+ An old train is traveling across the railroad tracks.</s>
+response_43: 
+ A herd of cattle grazing on a grass covered field.</s>
+response_44: 
+ A vase filled with flowers sitting on a table.</s>
+response_45: 
+ A group of people that are standing with a horse.</s>
+response_46: 
+ An airplane is parked on a runway near an airport.</s>
+response_47: 
+ A city street filled with lots of traffic.</s>
+response_48: 
+ Three people on a tennis court playing tennis.</s>
+response_49: 
+ A bird with an angry look on its face.</s>
+response_50: 
+ A person standing on a sidewalk in front of a building.</s>
+response_51: 
+ A beach scene with a body of water in the background.</s>
+response_52: 
+ A small airplane flying through a gray sky.</s>
+response_53: 
+ A bird is sitting in the water of a lake.</s>
+response_54: 
+ A motorcycle parked on the side of a street.</s>
+response_55: 
+ A train traveling down train tracks near a tall building.</s>
+response_56: 
+ A close up of a sandwich on a plate.</s>
+response_57: 
+ A baseball player getting ready to swing at the ball.</s>
+response_58: 
+ A busy city intersection with cars and buildings in the background.</s>
+response_59: 
+ A kitchen with a pot and kettle on the stove.</s>
+response_60: 
+ A man standing on a tennis court holding a racquet.</s>
+response_61: 
+ A close-up of a plate of food containing broccoli.</s>
+response_62: 
+ A man on a skateboard going down a street.</s>
+response_63: 
+ A table full of different drinks and plates.</s>
+response_64: 
+ A person on a skateboard on a street.</s>
+response_65: 
+ A group of people sitting next to each other.</s>
+response_66: 
+ A zebra standing in a grassy field with trees in the background.</s>
+response_67: 
+ A close up of a fire hydrant on a street.</s>
+response_68: 
+ A black and white image of a lone surfer on a body of water.</s>
+response_69: 
+ A close up view of a giraffe's face.</s>
+response_70: 
+ A close-up of a plate of food containing broccoli.</s>
+response_71: 
+ A large body of water beneath a blue sky.</s>
+response_72: 
+ A large body of water with boats on top of it.</s>
+response_73: 
+ A person flying a kite in a clear blue sky.</s>
+response_74: 
+ A man is eating a pizza and drinking a beer.</s>
+response_75: 
+ A living area with chairs and a table</s>
+response_76: 
+ A close up view of a person holding a hot dog.</s>
+response_77: 
+ A teddy bear that is sitting up in a bed.</s>
+response_78: 
+ A train traveling down train tracks near a forest.</s>
+response_79: 
+ A giraffe standing in a forest next to a tree.</s>
+response_80: 
+ A small sailboat in the water near a city.</s>
+response_81: 
+ A group of animals grazing in a field.</s>
+response_82: 
+ A surfer is riding a wave in the ocean.</s>
+response_83: 
+ A man standing on top of a field with a tennis racket.</s>
+response_84: 
+ A close up of a dog laying on the ground.</s>
+response_85: 
+ A man holding a tennis racquet on top of a tennis court.</s>
+response_86: 
+ A man with a surfboard on a body of water.</s>
+response_87: 
+ A herd of cattle walking across a grass covered field.</s>
+response_88: 
+ A street with cars parked on the side of it</s>
+response_89: 
+ A large clock mounted on the wall of a kitchen.</s>
+response_90: 
+ A large clock tower with a massive clock on it's side.</s>
+response_91: 
+ A plate topped with a pile of food.</s>
+response_92: 
+ A surfer is riding a small wave in the ocean.</s>
+response_93: 
+ A bunch of bananas are shown in a close up view.</s>
+response_94: 
+ A close up of a dog's face</s>
+response_95: 
+ A pantry area next to a kitchen with lots of shelves.</s>
+response_96: 
+ A man sitting in a chair in a living room.</s>
+response_97: 
+ A group of houses next to each other with trees.</s>
+response_98: 
+ A bunch of bikes parked next to each other.</s>
+response_99: 
+ A woman in a vest and a tie.</s>
+response_100: 
+ A person standing outside on a sidewalk.</s>
+response_101: 
+ A white toilet sitting inside of a bathroom.</s>
+response_102: 
+ A bird is sitting with its wings open.</s>
+response_103: 
+ A group of boats are docked together on the water.</s>
+response_104: 
+ A person on a surfboard in the water.</s>
+response_105: 
+ A train traveling through a train station with a sky background.</s>
+response_106: 
+ A man riding skis down a snow covered slope.</s>
+response_107: 
+ A kitchen with lots of counter top space and cupboards.</s>
+response_108: 
+ A black and white photo of a man surfing.</s>
+response_109: 
+ A close-up of a plate of food containing broccoli.</s>
+response_110: 
+ A large jetliner sitting on top of a runway.</s>
+response_111: 
+ A woman standing on top of a floor in a short skirt.</s>
+response_112: 
+ A baseball player who is holding a bat in both of his hands.</s>
+response_113: 
+ A man in a jacket on a horse.</s>
+response_114: 
+ A bowl of food that is sitting on a table.</s>
+response_115: 
+ A large jet sitting on top of a runway.</s>
+response_116: 
+ A group of people sitting next to each other on a field.</s>
+response_117: 
+ A living room filled with furniture and a large window.</s>
+response_118: 
+ A bathroom with a large mirror on the wall.</s>
+response_119: 
+ A man holding a tennis racquet on a tennis court.</s>
+response_120: 
+ A close up of a bowl of food</s>
+response_121: 
+ A bathroom with two sinks sitting next to each other.</s>
+response_122: 
+ A kitchen with a large stove top and a lot of cupboard space.</s>
+response_123: 
+ A man in a tie and a suit.</s>
+response_124: 
+ A bathroom with double sinks and a mirror.</s>
+response_125: 
+ A lush green forest filled with trees under a blue sky.</s>
+response_126: 
+ A large body of water with small waves on it.</s>
+response_127: 
+ A group of people sitting at tables under a tent.</s>
+response_128: 
+ A person holding a large surfboard in the ocean.</s>
+response_129: 
+ Three zebras standing in a field with trees in the background.</s>
+response_130: 
+ A man in a suit looking towards the camera</s>
+response_131: 
+ A man riding a motorcycle with a child on back of it.</s>
+response_132: 
+ A large body of water with boats on top of it.</s>
+response_133: 
+ A group of giraffes stand in a field.</s>
+response_134: 
+ A close up view of a container with a liquid in it.</s>
+response_135: 
+ A close up of a plate of food containing broccoli.</s>
+response_136: 
+ A motorcycle sits on a field in the woods.</s>
+response_137: 
+ The top of a wooden cabinet in a living room</s>
+response_138: 
+ A view of a bunch of tables and chairs in a crowded restaurant.</s>
+response_139: 
+ A bathroom with a sink, mirror, and toilet.</s>
+response_140: 
+ A bike parked on top of a grass covered field.</s>
+response_141: 
+ A kitchen with a stove, sink, and microwave in it.</s>
+response_142: 
+ A giraffe is walking in a field of grass.</s>
+response_143: 
+ A small airplane flying through a gray sky.</s>
+response_144: 
+ A close up of a front animal, it appears to be a pony.</s>
+response_145: 
+ A large jet flying through a gray sky.</s>
+response_146: 
+ A plate topped with slices of bread and meat.</s>
+response_147: 
+ A fire hydrant on a street near some trees.</s>
+response_148: 
+ A person in a snow suit and skis on the snow.</s>
+response_149: 
+ A zebra standing in the dirt near a tree.</s>
+response_150: 
+ A group of people playing soccer in a field.</s>
+response_151: 
+ A computer that is sitting on a desk.</s>
+response_152: 
+ A man looks directly at the camera.</s>
+response_153: 
+ A large brown bear walking through a lush green forest.</s>
+response_154: 
+ A living room filled with furniture and a large window.</s>
+response_155: 
+ A woman laying in bed next to a blanket.</s>
+response_156: 
+ A man in a white shirt and dark shorts playing tennis.</s>
+response_157: 
+ A man riding a horse on a dirt road.</s>
+response_158: 
+ A bathroom with a sink and a mirror.</s>
+response_159: 
+ A double decker bus on a street in a city</s>
+response_160: 
+ A large bus on a open city street.</s>
+response_161: 
+ A view of a bunch of parked cars on the side of a street.</s>
+response_162: 
+ A man riding a skateboard down a rural country road.</s>
+response_163: 
+ A large clock tower towering over a small city.</s>
+response_164: 
+ A man in a baseball uniform is standing on a field.</s>
+response_165: 
+ A group of sheep standing next to each other on a hill.</s>
+response_166: 
+ A storage area with a number of plastic containers</s>
+response_167: 
+ A man surfing in the ocean on a massive wave.</s>
+response_168: 
+ A bird that is sitting on a branch.</s>
+response_169: 
+ A large jetliner sitting on top of a runway.</s>
+response_170: 
+ A plate of food on a table in a room.</s>
+response_171: 
+ A man in a sweater looks at the camera.</s>
+response_172: 
+ A closeup of a metal structure with a blurred background.</s>
+response_173: 
+ Two people standing on a field playing soccer.</s>
+response_174: 
+ A black dog wading through the water of a beach.</s>
+response_175: 
+ A train going down the train tracks in the country.</s>
+response_176: 
+ A toilet with the seat up in a bathroom.</s>
+response_177: 
+ A man riding skis down a snow covered slope.</s>
+response_178: 
+ A cat is sitting on top of a couch.</s>
+response_179: 
+ A large building with a clock tower on top.</s>
+response_180: 
+ A large group of cars on a city street.</s>
+response_181: 
+ Three sheep standing near each other in an enclosure.</s>
+response_182: 
+ A close up of a giraffe's face</s>
+response_183: 
+ A small elephant standing on top of a field.</s>
+response_184: 
+ A group of benches sitting next to each other on a street.</s>
+response_185: 
+ A lush green forest filled with trees.</s>
+response_186: 
+ A view of a bunch of fruit in a market.</s>
+response_187: 
+ A group of cars driving down a street under a cloudy sky.</s>
+response_188: 
+ A sheep sitting up against a wall next to a building.</s>
+response_189: 
+ A group of people sitting around a table covered in food.</s>
+response_190: 
+ A living room with a couch and chairs.</s>
+response_191: 
+ A city bus is traveling down the street</s>
+response_192: 
+ Three zebras standing together in a grassy field.</s>
+response_193: 
+ The train is going down the railroad tracks.</s>
+response_194: 
+ A group of people who are standing together.</s>
+response_195: 
+ A group of people riding bikes on top of a field.</s>
+response_196: 
+ A group of horses walking down a street.</s>
+response_197: 
+ A person skiing in the snow during the day.</s>
+response_198: 
+ A group of animals sitting and standing next to each other.</s>
+response_199: 
+ A plate of food with different vegetables on it.</s>
+response_200: 
+ A street that has buildings on each side.</s>
+response_201: 
+ A clock tower that is part of a building.</s>
+response_202: 
+ A large clock mounted on the side of a building.</s>
+response_203: 
+ A crowd of people are gathered in a large room.</s>
+response_204: 
+ A close up of a stop sign, with another behind it.</s>
+response_205: 
+ A large white boat in a body of water.</s>
+response_206: 
+ A train traveling down train tracks near a train station.</s>
+response_207: 
+ A toilet in a bathroom with the seat up.</s>
+response_208: 
+ A view of a kitchen from across the room.</s>
+response_209: 
+ A large jetliner flying through a cloudy blue sky.</s>
+response_210: 
+ A group of people are gathered in a forested area.</s>
+response_211: 
+ A large wave is coming down the ocean.</s>
+response_212: 
+ A woman sitting at a table with a plate of food.</s>
+response_213: 
+ A close-up of a plate of food containing vegetables.</s>
+response_214: 
+ Two men stand beside each other with their arms folded.</s>
+response_215: 
+ A large clock tower in the middle of a town.</s>
+response_216: 
+ The zebra is standing on the rocky ground.</s>
+response_217: 
+ A person eating something with their hand near their mouth.</s>
+response_218: 
+ A herd of zebra grazing on a grass covered field.</s>
+response_219: 
+ A large body of water beneath a blue sky.</s>
+response_220: 
+ A kite flying in the sky on a cloudy day.</s>
+response_221: 
+ A man sitting on a motorcycle in the street.</s>
+response_222: 
+ A close up of the faces of two adult giraffes.</s>
+response_223: 
+ A close-up of a plate of vegetables, including broccoli.</s>
+response_224: 
+ A train traveling down train tracks near a train station.</s>
+response_225: 
+ A close up view of the front of a train.</s>
+response_226: 
+ A bathroom with a toilet, sink, and mirror in it.</s>
+response_227: 
+ A group of people standing on a sidewalk.</s>
+response_228: 
+ A large transport truck driving through a city.</s>
+response_229: 
+ A man sitting on top of a bed next to a pillow.</s>
+response_230: 
+ A couple of people riding skateboards on a street.</s>
+response_231: 
+ A large white bear standing on top of a cement floor.</s>
+response_232: 
+ A view of a water front with a large expanse of water and trees.</s>
+response_233: 
+ A person flying a kite in a grassy field.</s>
+response_234: 
+ A cat is sitting on top of a wooden table.</s>
+response_235: 
+ The mountains appear to be getting dark.</s>
+response_236: 
+ A train traveling down train tracks near a tall building.</s>
+response_237: 
+ A person on some skis in the snow.</s>
+response_238: 
+ A man riding a skateboard down a street.</s>
+response_239: 
+ A large building with a lot of windows.</s>
+response_240: 
+ A large bus is traveling down the street</s>
+response_241: 
+ A plate of food with vegetables and fruit on it.</s>
+response_242: 
+ A woman holding a tennis racket in a defensive stance.</s>
+response_243: 
+ A tennis court with trees in the background.</s>
+response_244: 
+ A herd of cattle grazing on a lush green field.</s>
+response_245: 
+ A large tall metal fence by a building.</s>
+response_246: 
+ A man riding skis down the side of a snow covered slope.</s>
+response_247: 
+ A man skateboards in a skate park on a clear day.</s>
+response_248: 
+ A woman looks directly at the camera.</s>
+response_249: 
+ An empty kitchen with a window and a sink.</s>
+response_250: 
+ A field with grass that is empty with many trees in the background.</s>
+response_251: 
+ A group of people sitting around a living room together.</s>
+response_252: 
+ A giraffe that is walking in an enclosure.</s>
+response_253: 
+ A man is skateboarding in a park at night.</s>
+response_254: 
+ A close up of a dog with a collar sitting outside.</s>
+response_255: 
+ A pizza sitting on top of a pizza pan.</s>
+response_256: 
+ A man snowboarding on a mountain during the day.</s>
+response_257: 
+ A train going down the train tracks during the day.</s>
+response_258: 
+ A black and white photo of a sandy beach.</s>
+response_259: 
+ A small wave in the ocean with a surfer</s>
+response_260: 
+ A woman sitting on a bed next to a window.</s>
+response_261: 
+ A man on a skateboard is doing a trick</s>
+response_262: 
+ A giraffe standing in a field next to a forest.</s>
+response_263: 
+ A vase of flowers sitting on a table</s>
+response_264: 
+ A man riding skis on top of a snow covered slope.</s>
+response_265: 
+ A large brown bear walking through a lush green forest.</s>
+response_266: 
+ A street sign next to a building on a city street.</s>
+response_267: 
+ A pizza sitting on top of a pizza pan.</s>
+response_268: 
+ A cat sits on a table with a computer in front of it.</s>
+response_269: 
+ A computer desk topped with a monitor and a mouse.</s>
+response_270: 
+ A man sitting down with a beverage in his hand.</s>
+response_271: 
+ A car is driving down the street in front of another car.</s>
+response_272: 
+ A cat is laying on top of a bed</s>
+response_273: 
+ A person on a skateboard on a ledge.</s>
+response_274: 
+ An elephant is walking along on a field.</s>
+response_275: 
+ A large building with several windows and a clock tower.</s>
+response_276: 
+ An assortment of boats are parked near a city.</s>
+response_277: 
+ A large building with a clock on the top.</s>
+response_278: 
+ A group of giraffes walk in the dirt between trees.</s>
+response_279: 
+ A person sitting on the ground under a tree.</s>
+response_280: 
+ A group of people standing on the outside of a bus.</s>
+response_281: 
+ A man with a brown nose and hair.</s>
+response_282: 
+ A train traveling down train tracks near a forest.</s>
+response_283: 
+ A living room filled with furniture and a large book shelf.</s>
+response_284: 
+ A person on a court with a tennis racket.</s>
+response_285: 
+ A close up of a zebra standing in the sun.</s>
+response_286: 
+ A group of people sitting around a living room near a couch.</s>
+response_287: 
+ A group of people sitting around a room together.</s>
+response_288: 
+ A large window with a white window frame.</s>
+response_289: 
+ A man holding a tennis racquet on a tennis court.</s>
+response_290: 
+ A person holding a tennis racket in a swing position.</s>
+response_291: 
+ A group of glass vases sitting on top of a table.</s>
+response_292: 
+ A kitchen with lots of counter top space and cupboards.</s>
+response_293: 
+ A street scene with a large display of magazines.</s>
+response_294: 
+ A close up of a bed with the pillows.</s>
+response_295: 
+ A giraffe is walking in the dirt near trees.</s>
+response_296: 
+ A group of people playing tennis on a court.</s>
+response_297: 
+ An empty room with a view of a adjacent room.</s>
+response_298: 
+ A view of a stop sign in the daytime, with trees in the background.</s>
+response_299: 
+ A man standing next to another man in a  street.</s>
+response_300: 
+ A dog is laying down on a couch.</s>
+response_301: 
+ A street sign for exiting only on a highway.</s>
+response_302: 
+ A large brown bear poses for a picture.</s>
+response_303: 
+ A bathroom with a toilet, sink and mirror.</s>
+response_304: 
+ A close-up of a plate of food containing broccoli.</s>
+response_305: 
+ A large cat is laying down on a sofa</s>
+response_306: 
+ A close up of a sheep with a thick coat of hair.</s>
+response_307: 
+ A living room with a chair and a television.</s>
+response_308: 
+ A large grassy field with some hills in the background.</s>
+response_309: 
+ A street view of a few buildings in the background.</s>
+response_310: 
+ A woman sitting on top of a couch in a living room.</s>
+response_311: 
+ Three cows graze in a grassy field with one looking at the camera.</s>
+response_312: 
+ A small wave is breaking in the ocean.</s>
+response_313: 
+ A group of bananas hangs from a tree.</s>
+response_314: 
+ A giraffe standing in a zoo exhibit by a tree.</s>
+response_315: 
+ A close up of a dog in a car.</s>
+response_316: 
+ A microwave and a clock sitting on a shelf.</s>
+response_317: 
+ A brown bear standing on top of a lush green field.</s>
+response_318: 
+ A cat laying on top of a bed under a window.</s>
+response_319: 
+ A large dining table with a number of people seated at it</s>
+response_320: 
+ A baseball player who is at bat in a stadium.</s>
+response_321: 
+ A closeup of a bunch of bananas.</s>
+response_322: 
+ A surfer is riding a wave in the ocean.</s>
+response_323: 
+ A person riding skis on top of a snow covered slope.</s>
+response_324: 
+ A large city with a body of water next to it.</s>
+response_325: 
+ A man riding a motorcycle down a street.</s>
+response_326: 
+ A group of horses standing next to each other on a field.</s>
+response_327: 
+ A large animal in a field near the sky.</s>
+response_328: 
+ A group of trucks sitting outside of a house.</s>
+response_329: 
+ A pile of apples sitting on top of a table.</s>
+response_330: 
+ A group of people playing tennis on a court.</s>
+response_331: 
+ A zebra standing on top of a dirt field.</s>
+response_332: 
+ A kitchen with a sink, a stove, and cabinets.</s>
+response_333: 
+ A man riding a skateboard down a street.</s>
+response_334: 
+ A group of people sitting around a table with food.</s>
+response_335: 
+ A living room with a large screen television.</s>
+response_336: 
+ A group of people skiing on a snowy slope.</s>
+response_337: 
+ A man in a grey shirt playing tennis.</s>
+response_338: 
+ A bathroom with a sink, a mirror and a window.</s>
+response_339: 
+ A large wave is coming down the ocean.</s>
+response_340: 
+ A bird that is sitting on a tree branch.</s>
+response_341: 
+ A view of a bunch of trees in a forest.</s>
+response_342: 
+ A group of people standing on top of a sandy beach.</s>
+response_343: 
+ A bird sitting on a tree branch in the shade.</s>
+response_344: 
+ A herd of giraffe walking through a field.</s>
+response_345: 
+ A kitchen with lots of counter top space and a sink.</s>
+response_346: 
+ The people are on the sidewalk shopping.</s>
+response_347: 
+ A small airplane sitting on top of a tarmac.</s>
+response_348: 
+ A photo of a produce stand in a market.</s>
+response_349: 
+ A man standing on top of a grass covered field.</s>
+response_350: 
+ A motorcycle parked in a grassy field under a tree.</s>
+response_351: 
+ A close up of a cat looking at the camera</s>
+response_352: 
+ A close up of a man's face as he looks at something.</s>
+response_353: 
+ A street with a bus and two cars driving on it.</s>
+response_354: 
+ A group of people standing next to each other.</s>
+response_355: 
+ A large ship is sitting in the ocean.</s>
+response_356: 
+ A pile of raw vegetables on top of a white plate.</s>
+response_357: 
+ A bathroom with white cabinets and white walls.</s>
+response_358: 
+ A man in a dress shirt and tie standing by a desk.</s>
+response_359: 
+ A small group of elephants are walking in a field.</s>
+response_360: 
+ A man in a suit looking off-camera.</s>
+response_361: 
+ A large jet sitting on top of a runway.</s>
+response_362: 
+ An elephant standing on top of a grass covered field.</s>
+response_363: 
+ A white plate topped with a chicken and veggie dish.</s>
+response_364: 
+ A close up of a plate of food that includes broccoli.</s>
+response_365: 
+ An elephant standing on top of a rocky ground.</s>
+response_366: 
+ A dark dining room with a large table</s>
+response_367: 
+ A group of people are in the woods.</s>
+response_368: 
+ two skiers on a snowy mountain with their skis</s>
+response_369: 
+ A person riding a horse in a grassy field</s>
+response_370: 
+ A vase with flowers on a table</s>
+response_371: 
+ A woman with a pony tail standing outside.</s>
+response_372: 
+ A man riding a wave on top of a surfboard.</s>
+response_373: 
+ A large building with a clock tower above it.</s>
+response_374: 
+ A large truck driving down a city street.</s>
+response_375: 
+ A person flying through the air on a board.</s>
+response_376: 
+ A street scene with cars and trees in the background.</s>
+response_377: 
+ A large elephant standing in a forest.</s>
+response_378: 
+ A man surfing a wave in the ocean.</s>
+response_379: 
+ A lot of swifts are moving in different directions.</s>
+response_380: 
+ A bathroom with a toilet, sink and shower</s>
+response_381: 
+ The view of a baseball game from behind home plate.</s>
+response_382: 
+ A close up of a person sitting in a car.</s>
+response_383: 
+ A bathroom with two sinks sitting next to each other.</s>
+response_384: 
+ A group of people riding skis on top of a snow covered slope.</s>
+response_385: 
+ Two zebras standing next to each other in a field.</s>
+response_386: 
+ An area of land with rocks and brush.</s>
+response_387: 
+ A group of sheep grazing on a rocky hillside.</s>
+response_388: 
+ A street scene with cars in the middle of the road.</s>
+response_389: 
+ A bed with sheets and pillows in a room.</s>
+response_390: 
+ A computer keyboard sitting on top of a desk.</s>
+response_391: 
+ A street view of a street with some buildings.</s>
+response_392: 
+ A bear sits on the ground of a forest.</s>
+response_393: 
+ A large bus on a open city street.</s>
+response_394: 
+ A view of an intersection in the daytime, with no traffic.</s>
+response_395: 
+ A bathroom with a window, sink, and mirror.</s>
+response_396: 
+ The two bears are laying down together in the field.</s>
+response_397: 
+ A dog running in the grass on a sunny day.</s>
+response_398: 
+ A large vase is sitting by itself while it should be in use.</s>
+response_399: 
+ A table topped with a cup of coffee and a donut.</s>
+response_400: 
+ A busy street with lots of traffic driving on it.</s>
+response_401: 
+ A close up of a man's face with a serious look.</s>
+response_402: 
+ A herd of sheep grazing on a lush green field.</s>
+response_403: 
+ A large truck sits parked in front of a building.</s>
+response_404: 
+ A giraffe standing in a forest next to trees.</s>
+response_405: 
+ A large body of water with lots of boats floating on it.</s>
+response_406: 
+ Three giraffes standing together in a grassy field.</s>
+response_407: 
+ A vase of flowers sitting on a table.</s>
+response_408: 
+ A man wearing a tie and looking serious.</s>
+response_409: 
+ A man in a blue shirt sitting down.</s>
+response_410: 
+ A man sitting on top of a bench next to a bunch of trees.</s>
+response_411: 
+ A close-up of a plate of food containing vegetables.</s>
+response_412: 
+ A person on the beach with a kite in the sky.</s>
+response_413: 
+ A kitchen with a white stove and a microwave.</s>
+response_414: 
+ A kitchen filled with lots of counter top space.</s>
+response_415: 
+ A fire hydrant is sitting on a street side.</s>
+response_416: 
+ A closeup of a plate of food at a restaurant</s>
+response_417: 
+ A boy on a skateboard in a skateboard park.</s>
+response_418: 
+ A crowd of people walking next to each other on a sidewalk.</s>
+response_419: 
+ A surfer is riding a wave in the ocean.</s>
+response_420: 
+ A man riding a motorcycle down a street.</s>
+response_421: 
+ A white bathroom with a toilet and a shower.</s>
+response_422: 
+ A bathroom with a toilet, sink, and mirror in it.</s>
+response_423: 
+ A computer desk topped with a monitor and a mouse.</s>
+response_424: 
+ a couple of giraffes are standing in a field</s>
+response_425: 
+ A cat is laying down in the sun.</s>
+response_426: 
+ A group of people flying kites in the sky</s>
+response_427: 
+ A large group of people in a room.</s>
+response_428: 
+ A kitchen with lots of counter top space.</s>
+response_429: 
+ A group of sheep standing next to each other.</s>
+response_430: 
+ A close-up of a few bunches of vegetables on a plate.</s>
+response_431: 
+ A close up of a zebra standing in the grass.</s>
+response_432: 
+ A close up of some very tasty looking food.</s>
+response_433: 
+ A man skateboards in a darkened room</s>
+response_434: 
+ A train driving down the tracks near a building.</s>
+response_435: 
+ A picture of a bathroom with a large mirror.</s>
+response_436: 
+ A group of people sitting around a dinner table.</s>
+response_437: 
+ A giraffe that is standing in an enclosure.</s>
+response_438: 
+ A person is riding a horse by a building.</s>
+response_439: 
+ A bathroom with a sink, mirror and tub.</s>
+response_440: 
+ A train traveling down train tracks near a train station.</s>
+response_441: 
+ A computer desk is shown with a laptop.</s>
+response_442: 
+ A large building with a clock on the top.</s>
+response_443: 
+ A living room filled with furniture and a large window.</s>
+response_444: 
+ A pile of apples sitting on top of a table.</s>
+response_445: 
+ A person on some skis in the snow.</s>
+response_446: 
+ a large crowd of people skiing on a snowy mountain</s>
+response_447: 
+ A large jet sitting on top of an airport tarmac.</s>
+response_448: 
+ A herd of wild animals grazing on a lush green forest.</s>
+response_449: 
+ A man riding skis down a snow covered slope.</s>
+response_450: 
+ A white bathroom with a toilet and a sink.</s>
+response_451: 
+ A zebra standing on top of a grass covered field.</s>
+response_452: 
+ a couple of people that are skiing across some snow</s>
+response_453: 
+ A man surfing on a surf board in the ocean.</s>
+response_454: 
+ A man is putting his face in a position to squirt something.</s>
+response_455: 
+ A man on a skateboard on a street.</s>
+response_456: 
+ a couple of sheep are in a grassy field</s>
+response_457: 
+ A street scene with no cars currently on the road.</s>
+response_458: 
+ A man in a suit looking towards the camera</s>
+response_459: 
+ A person on a board in the water.</s>
+response_460: 
+ A zebra is standing in a field with tall grass.</s>
+response_461: 
+ Three zebras stand near each other in a grassy area.</s>
+response_462: 
+ A field with trees and some grass</s>
+response_463: 
+ A bathroom with a sink, mirror, and windows in it.</s>
+response_464: 
+ A surfer is riding a small wave in the ocean.</s>
+response_465: 
+ The zebras are grazing on the grassy field.</s>
+response_466: 
+ A cat is sitting down staring at something.</s>
+response_467: 
+ The teenager is getting ready to go to school</s>
+response_468: 
+ An elephant standing in a field during the day.</s>
+response_469: 
+ A row of wooden chairs in front of a window.</s>
+response_470: 
+ A man in a dress shirt and tie</s>
+response_471: 
+ A large group of people in a city.</s>
+response_472: 
+ A man riding a wave on top of a surfboard.</s>
+response_473: 
+ A close up of a wooden bench with green leaves in the background.</s>
+response_474: 
+ A cat is sitting on a couch in a room.</s>
+response_475: 
+ A giraffe standing in a grassy field with trees in the background.</s>
+response_476: 
+ A person on skis standing on a snowy slope.</s>
+response_477: 
+ A zebra standing in a grassy field with trees in the background.</s>
+response_478: 
+ A row of motorcycles parked next to each other.</s>
+response_479: 
+ A forest filled with lots of trees and leaves.</s>
+response_480: 
+ A cake that is very decorated and sitting on a table.</s>
+response_481: 
+ A large city with traffic going past a tall building.</s>
+response_482: 
+ A kitchen with lots of counter top space.</s>
+response_483: 
+ A close up of a plate of food that includes cheese.</s>
+response_484: 
+ A large city with a train passing by it.</s>
+response_485: 
+ A man in a T-shirt playing tennis on a court.</s>
+response_486: 
+ A man riding skis down the side of a snow covered slope.</s>
+response_487: 
+ An old building with a lot of windows and a pointy roof.</s>
+response_488: 
+ A herd of cattle grazing on a lush green field.</s>
+response_489: 
+ A large body of water with a boat in it.</s>
+response_490: 
+ A herd of cattle grazing on a lush green hillside.</s>
+response_491: 
+ A man in grey shirt holding a tennis racket.</s>
+response_492: 
+ A small elephant standing in a field during the day.</s>
+response_493: 
+ A small elephant is standing near another elephant.</s>
+response_494: 
+ A person on some skis in the snow.</s>
+response_495: 
+ A bus is shown parked on the side of a street.</s>
+response_496: 
+ A close up of a tusked elephant grazing on a tree</s>
+response_497: 
+ A giraffe standing in a grassy area with trees in the background.</s>
+response_498: 
+ A zebra standing in a fenced in area next to a building.</s>
+response_499: 
+ A window with a curtain in it, and shadows.</s>
+response_500: 
+ A man is holding a plate with two hot dogs.</s>
+response_501: 
+ The computer desk is in front of a window.</s>
+response_502: 
+ A person on a surfboard in the water.</s>
+response_503: 
+ A train that is rolling down the tracks with trees in the background.</s>
+response_504: 
+ A train traveling down train tracks near a forest.</s>
+response_505: 
+ A large bus is parked on the street.</s>
+response_506: 
+ A kitchen with a lot of cabinets and cooking equipment.</s>
+response_507: 
+ A pile of various fruits and vegetables sitting on a table.</s>
+response_508: 
+ A close up of some very tasty looking food.</s>
+response_509: 
+ A large body of water with lots of boats on it.</s>
+response_510: 
+ A close-up of a man's neck and a tie.</s>
+response_511: 
+ A couple of large sandwiches on a table.</s>
+response_512: 
+ A group of zebra walking across a lush green field.</s>
+response_513: 
+ A boy with his hair cut holding up a pair of scissors.</s>
+response_514: 
+ A train station with a train approaching it.</s>
+response_515: 
+ A man riding a skateboard down a street.</s>
+response_516: 
+ Two zebras standing in a field next to each other.</s>
+response_517: 
+ A person in a grey ski suit on a snowy slope</s>
+response_518: 
+ A person holding an umbrella very close to their face</s>
+response_519: 
+ A group of people riding skis on top of a snow covered slope.</s>
+response_520: 
+ The woman is sitting with her arms on her lap.</s>
+response_521: 
+ A person on some skis in the snow.</s>
+response_522: 
+ Two sheep standing next to each other in a field.</s>
+response_523: 
+ Two cows standing in a large grassy field.</s>
+response_524: 
+ A giraffe standing next to a tree in a zoo exhibit.</s>
+response_525: 
+ A street with many windows and reflections in the windows.</s>
+response_526: 
+ A small elephant is standing in a field.</s>
+response_527: 
+ A plate of food on a table</s>
+response_528: 
+ An airplane sitting on the tarmac at an airport</s>
+response_529: 
+ A desktop computer sitting on top of a desk.</s>
+response_530: 
+ A person on a snowboard on a mountain.</s>
+response_531: 
+ A large clock tower with a clock on it's side.</s>
+response_532: 
+ A bird is sitting perched on a tree branch.</s>
+response_533: 
+ A man is sitting with his legs crossed.</s>
+response_534: 
+ A large clock tower with clocks on each of it's sides.</s>
+response_535: 
+ A large body of water sitting under a cloudy sky.</s>
+response_536: 
+ A living room filled with furniture and a dining room.</s>
+response_537: 
+ A living room with a couch, chair and coffee table.</s>
+response_538: 
+ A living room with a television and a stand.</s>
+response_539: 
+ A close up of the screen of a laptop.</s>
+response_540: 
+ A large jetliner sitting on top of a tarmac.</s>
+response_541: 
+ A woman is looking toward the camera as she smiles.</s>
+response_542: 
+ A group of zebra grazing on a grass covered field.</s>
+response_543: 
+ A view of the sky with a couple of birds flying by.</s>
+response_544: 
+ A close up of a cat sitting on a bed</s>
+response_545: 
+ An empty street overlooking a wooded area in the background.</s>
+response_546: 
+ A large plane is flying in the sky.</s>
+response_547: 
+ A cat is sitting on top of a bed.</s>
+response_548: 
+ A baseball player who is holding a bat.</s>
+response_549: 
+ A man looking up at the sky on a cloudy day.</s>
+response_550: 
+ A close-up of a man's face as he looks down.</s>
+response_551: 
+ A pile of various fruits and vegetables sitting on a table.</s>
+response_552: 
+ A group of people sitting around a table with food on it.</s>
+response_553: 
+ An elephant standing in the wild, next to trees and brush.</s>
+response_554: 
+ A close up of several stacked cups.</s>
+response_555: 
+ A train traveling down train tracks near a forest.</s>
+response_556: 
+ A group of zebras standing close to each other.</s>
+response_557: 
+ A herd of sheep grazing on a grassy hill.</s>
+response_558: 
+ A couple of giraffe standing next to each other.</s>
+response_559: 
+ A bathroom with a sink, mirror, and toilet.</s>
+response_560: 
+ A store with a lot of items inside of it.</s>
+response_561: 
+ A woman sitting down and smiling for the camera.</s>
+response_562: 
+ A living room with a sofa, chairs, and a coffee table.</s>
+response_563: 
+ A toilet in a bathroom with the seat down.</s>
+response_564: 
+ A giraffe standing next to a tree in a forest.</s>
+response_565: 
+ A man holding a tennis racket in his hand.</s>
+response_566: 
+ A close up of a sheep with a grassy field in the background.</s>
+response_567: 
+ A horse standing in a grassy field on a sunny day.</s>
+response_568: 
+ A large brown bear walking through a lush green field.</s>
+response_569: 
+ A man sits on a bench in a forest.</s>
+response_570: 
+ A plate of food on a table</s>
+response_571: 
+ A small vase with a flower sits on a table.</s>
+response_572: 
+ A giraffe standing in a grassy field near trees.</s>
+response_573: 
+ A boy in a blue shirt standing in a grassy field.</s>
+response_574: 
+ A woman standing with her arms crossed in front of her.</s>
+response_575: 
+ The zebra is walking through the tall grass.</s>
+response_576: 
+ A herd of elephants grazing on a grass covered field.</s>
+response_577: 
+ A close up of a man's face</s>
+response_578: 
+ A person riding a horse on a road.</s>
+response_579: 
+ A bear is standing in the woods looking at the camera</s>
+response_580: 
+ A bunch of kites flying in the sky.</s>
+response_581: 
+ A closeup of two dark cows grazing in a field.</s>
+response_582: 
+ A herd of cows walking down a road.</s>
+response_583: 
+ A group of people in black shirts walking on a beach.</s>
+response_584: 
+ A baseball player is holding his bat ready to swing.</s>
+response_585: 
+ A close up of two people standing together</s>
+response_586: 
+ A baby elephant huddles around with other baby elephants.</s>
+response_587: 
+ A man sitting down and eating a snack.</s>
+response_588: 
+ A pile of various fruits and vegetables sitting on a table.</s>
+response_589: 
+ A close-up of a plate of food containing nuts.</s>
+response_590: 
+ A fire hydrant next to a water dispenser on a street side.</s>
+response_591: 
+ There are many cows standing together in a field.</s>
+response_592: 
+ A large white building with a massive clock tower above it.</s>
+response_593: 
+ A person in a snow suit on skis on a slope.</s>
+response_594: 
+ A large gray car is parked outside.</s>
+response_595: 
+ A bus driving down the street near tall buildings.</s>
+response_596: 
+ A man sitting down with his arm on his lap.</s>
+response_597: 
+ A close up of a man's face as he looks at something.</s>
+response_598: 
+ A black and white picture of a woman sitting on a bench.</s>
+response_599: 
+ A black and white picture of a cat standing next to a building.</s>
+response_600: 
+ A large bus and some trucks on a street.</s>
+response_601: 
+ An airplane flying in the sky over the ocean.</s>
+response_602: 
+ The woman is walking beside a parked car.</s>
+response_603: 
+ A woman standing in a store next to a shelf.</s>
+response_604: 
+ A cat is sitting on the floor looking at something</s>
+response_605: 
+ A group of glasses and bottles of various sizes and shapes.</s>
+response_606: 
+ A large brown bear walking through a forest.</s>
+response_607: 
+ A toilet is in a bathroom with no color.</s>
+response_608: 
+ A man riding a wave on top of a surfboard.</s>
+response_609: 
+ A group of people playing soccer on a field.</s>
+response_610: 
+ A street in a small town with a few cars parked on the side of the road.</s>
+response_611: 
+ A person on a skateboard on a city street.</s>
+response_612: 
+ A street with only a few cars on it</s>
+response_613: 
+ A group of giraffes walk around in an enclosure</s>
+response_614: 
+ A shaggy brown bear walking in a field.</s>
+response_615: 
+ A herd of zebra grazing on a grass covered field.</s>
+response_616: 
+ A picture of some waves in the water.</s>
+response_617: 
+ Two people sitting on a bench near the ocean.</s>
+response_618: 
+ A large clock tower towering over a city.</s>
+response_619: 
+ A man riding a skateboard on a sidewalk.</s>
+response_620: 
+ A bed with a white comforter in a bedroom.</s>
+response_621: 
+ A group of people riding bikes in a park.</s>
+response_622: 
+ Two birds are standing next to each other on a field.</s>
+response_623: 
+ A group of electronic devices stacked on top of each other.</s>
+response_624: 
+ A man riding skis on top of a snow covered slope.</s>
+response_625: 
+ A living room with a couch and chairs.</s>
+response_626: 
+ A man riding a wave on top of a surfboard.</s>
+response_627: 
+ The bear is black and brown and very furry.</s>
+response_628: 
+ A pizza that is sitting on a table.</s>
+response_629: 
+ a number of bikes parked near one another</s>
+response_630: 
+ A large bear standing on a field covered in grass.</s>
+response_631: 
+ A large body of water with lots of boats on it.</s>
+response_632: 
+ A toilet in a very small bathroom in black and white.</s>
+response_633: 
+ A large building with a clock on the front.</s>
+response_634: 
+ A pizza on a plate on a dining table.</s>
+response_635: 
+ A pair of people in winter clothes on skis.</s>
+response_636: 
+ A surfer is riding a wave in the ocean.</s>
+response_637: 
+ A living room filled with furniture and a book shelf.</s>
+response_638: 
+ A man riding a wave on top of a surfboard.</s>
+response_639: 
+ A close up of a woman's face.</s>
+response_640: 
+ A group of people in a body of water.</s>
+response_641: 
+ A large brown bear laying on top of a bed.</s>
+response_642: 
+ A group of people riding boards on top of a body of water.</s>
+response_643: 
+ A living room filled with furniture and a large window.</s>
+response_644: 
+ A group of six shiny red tomatoes on a plate.</s>
+response_645: 
+ A table that has many different cakes on it.</s>
+response_646: 
+ A white toilet sitting inside of a bathroom next to a wall.</s>
+response_647: 
+ A large clock mounted on the side of a building.</s>
+response_648: 
+ A close up of a pole with a flag on it.</s>
+response_649: 
+ A view of a kitchen from across the room.</s>
+response_650: 
+ A boy is eating a large hot dog.</s>
+response_651: 
+ A train car sitting on a track under a covering.</s>
+response_652: 
+ The zebras are standing close together in the field.</s>
+response_653: 
+ A man with a helmet on while skateboarding.</s>
+response_654: 
+ A large jetliner sitting on top of a tarmac.</s>
+response_655: 
+ A large jet sitting on top of an airport tarmac.</s>
+response_656: 
+ A group of penguins standing in a field.</s>
+response_657: 
+ A woman holding a tennis racket in a swinging position.</s>
+response_658: 
+ A living room with couch, coffee table and computer.</s>
+response_659: 
+ A large, muscular man wearing a skate helmet</s>
+response_660: 
+ A person on a skateboard on a city street.</s>
+response_661: 
+ Three sheep graze in a grassy field with trees in the background.</s>
+response_662: 
+ A bathroom with a sink, bathtub and mirror.</s>
+response_663: 
+ A black bird standing on a wooden log.</s>
+response_664: 
+ A herd of animals grazing on a lush green field.</s>
+response_665: 
+ A desk that is covered with various items.</s>
+response_666: 
+ A zebra standing on top of a grass covered field.</s>
+response_667: 
+ A man laying down with his eyes closed.</s>
+response_668: 
+ A man standing next to a potted plant on top of a field.</s>
+response_669: 
+ A horse standing on top of a lush green field.</s>
+response_670: 
+ An old fire hydrant sitting in a field.</s>
+response_671: 
+ A baseball player is getting ready to hit a ball.</s>
+response_672: 
+ A man is standing on a tennis court.</s>
+response_673: 
+ A large body of water next to a city.</s>
+response_674: 
+ A man is holding a tennis racket in his hands.</s>
+response_675: 
+ A group of people sit on a bench together.</s>
+response_676: 
+ Three zebras standing near each other in front of some trees.</s>
+response_677: 
+ A person on a skateboard doing a trick.</s>
+response_678: 
+ A laptop sitting on a desk with other computers.</s>
+response_679: 
+ A table with a vase with flowers on it</s>
+response_680: 
+ A train traveling down train tracks near a forest.</s>
+response_681: 
+ Three giraffes standing around in a field at the zoo</s>
+response_682: 
+ A clock that is on the side of a building.</s>
+response_683: 
+ Two bears playing with each other in the grass.</s>
+response_684: 
+ A bathroom with a toilet, sink and bathtub.</s>
+response_685: 
+ A tall building with lots of windows and a metal frame.</s>
+response_686: 
+ A computer desk is shown with a keyboard.</s>
+response_687: 
+ A laptop that is sitting on a table.</s>
+response_688: 
+ A woman is dressed up in a sweater.</s>
+response_689: 
+ A lot of leaves have fallen off of the trees.</s>
+response_690: 
+ A bed with one side made up and the other side empty.</s>
+response_691: 
+ A close shot of some vegetables and a bowl of soup.</s>
+response_692: 
+ Three lions are sitting in the woods.</s>
+response_693: 
+ Two giraffes walk through a field in the distance.</s>
+response_694: 
+ Three sheep standing next to each other on a lush green field.</s>
+response_695: 
+ A person on skis skiing on a snowy slope.</s>
+response_696: 
+ A woman sitting down on a bed in a room.</s>
+response_697: 
+ A horse is making its way across a field.</s>
+response_698: 
+ A person on some skis in the snow.</s>
+response_699: 
+ A man standing up with a frisbee in his hand.</s>
+response_700: 
+ A motorcycle sits on the side of a road.</s>
+response_701: 
+ A man riding a skateboard through a park.</s>
+response_702: 
+ A zebra standing in a dirt field under a tree.</s>
+response_703: 
+ A white plate topped with lots of vegetables.</s>
+response_704: 
+ A woman with a pillow in her lap looking down.</s>
+response_705: 
+ A plate of fruit on a table</s>
+response_706: 
+ A car window with a cat sitting in the window sill.</s>
+response_707: 
+ A clock is showing the time in the city.</s>
+response_708: 
+ A street view of a road with cars on it.</s>
+response_709: 
+ a man standing on a snowy hill while wearing ski gear</s>
+response_710: 
+ A living room filled with lots of furniture.</s>
+response_711: 
+ Two people riding on the backs of horses on a beach.</s>
+response_712: 
+ A pile of lots of oranges sitting on top of a table.</s>
+response_713: 
+ A pile of books sitting on top of a table.</s>
+response_714: 
+ A large building with a group of buses parked in front.</s>
+response_715: 
+ A white wall with a door in it</s>
+response_716: 
+ A group of people walking down a street under a building.</s>
+response_717: 
+ A man sitting on top of a wooden bench.</s>
+response_718: 
+ A man on snow skis going down a snowy hill.</s>
+response_719: 
+ A boy looking up at the sky on a sunny day.</s>
+response_720: 
+ A man holding a tennis racquet on top of a court.</s>
+response_721: 
+ A snowy hillside with trees in the background.</s>
+response_722: 
+ A train traveling down train tracks near a forest.</s>
+response_723: 
+ A pile of various vegetables sitting on top of a table.</s>
+response_724: 
+ A living room with a couch, chairs, and a coffee table.</s>
+response_725: 
+ A bathroom with two sinks under a window.</s>
+response_726: 
+ A black bear standing in a field of grass.</s>
+response_727: 
+ A street filled with lots of traffic surrounded by buildings.</s>
+response_728: 
+ A toilet in a bathroom with the seat down.</s>
+response_729: 
+ A woman standing with her shoulders slightly hunched over</s>
+response_730: 
+ A close up of a dog's face</s>
+response_731: 
+ A large clock tower with a clock on it's side.</s>
+response_732: 
+ Three giraffes standing in front of some trees.</s>
+response_733: 
+ A large bus is parked on the street.</s>
+response_734: 
+ A man riding a skateboard down the side of a cement ramp.</s>
+response_735: 
+ A person in a ski jacket skis down the hill.</s>
+response_736: 
+ A plate of food on a table.</s>
+response_737: 
+ A man in a uniform with a baseball bat.</s>
+response_738: 
+ A small airplane is flying over a field.</s>
+response_739: 
+ A man playing baseball prepares to catch a ball.</s>
+response_740: 
+ A train traveling down train tracks near a cloudy sky.</s>
+response_741: 
+ A man eating something while sitting down.</s>
+response_742: 
+ A white bathroom with a toilet and a white wall.</s>
+response_743: 
+ A baseball pitcher on the mound in a stadium.</s>
+response_744: 
+ A street scene with cars parked on the side of the road.</s>
+response_745: 
+ A small airplane sitting on top of an airport tarmac.</s>
+response_746: 
+ A large group of zebra in a field.</s>
+response_747: 
+ A table full of food for a dinner party.</s>
+response_748: 
+ A baseball player in a uniform on the field.</s>
+response_749: 
+ A plate of fruit is seen in this image.</s>
+response_750: 
+ A child's face is shown close up.</s>
+response_751: 
+ A large clock tower next to a building with a clock on each of it's sides.</s>
+response_752: 
+ The trucks are parked on the side of the road.</s>
+response_753: 
+ A kitchen with a small table and chairs in it</s>
+response_754: 
+ A giraffe standing in front of a group of trees.</s>
+response_755: 
+ A dark image of a bear looking around.</s>
+response_756: 
+ A man riding a skateboard through a parking lot.</s>
+response_757: 
+ A clock with a lot of numbers on it.</s>
+response_758: 
+ A herd of giraffe grazing on a lush green field.</s>
+response_759: 
+ A man standing on a tennis court holding a racquet.</s>
+response_760: 
+ A close up of a giraffe's face</s>
+response_761: 
+ A baseball player is getting ready to hit a ball.</s>
+response_762: 
+ A bear is standing in the woods looking at the camera</s>
+response_763: 
+ A close up of a bowl of food containing broccoli.</s>
+response_764: 
+ A room filled with lots of clutter and boxes.</s>
+response_765: 
+ A plate full of some vegetables on a table.</s>
+response_766: 
+ A woman looks off into the distance with a pensive expression.</s>
+response_767: 
+ A computer chassis is shown with a keyboard.</s>
+response_768: 
+ A desktop computer sitting on top of a desk.</s>
+response_769: 
+ A group of plants together on a sunny day.</s>
+response_770: 
+ A boy sits down with his legs crossed over one another.</s>
+response_771: 
+ A man with long pants and a hooded shirt skateboards.</s>
+response_772: 
+ A surfer is riding a wave in the ocean.</s>
+response_773: 
+ A kitchen with a sink, faucet and dishes.</s>
+response_774: 
+ A woman standing in a kitchen preparing food.</s>
+response_775: 
+ A bathroom with a toilet and a large trash can.</s>
+response_776: 
+ A clock tower with a clock on each of it's sides.</s>
+response_777: 
+ A man swinging a tennis racquet on top of a tennis court.</s>
+response_778: 
+ A large clock tower towering over a small city.</s>
+response_779: 
+ A person on a board in the water.</s>
+response_780: 
+ A baseball player is standing on a field</s>
+response_781: 
+ A table that is in a very nice  room.</s>
+response_782: 
+ A tennis racket being held by a person.</s>
+response_783: 
+ A bathroom with a toilet, sink, and mirror in it.</s>
+response_784: 
+ A table full of various foods is set.</s>
+response_785: 
+ A pile of lots of fruits and vegetables.</s>
+response_786: 
+ Two horses looking at camera in grassy field.</s>
+response_787: 
+ A group of zebra standing next to each other.</s>
+response_788: 
+ A bird standing in the grass and looking at the camera.</s>
+response_789: 
+ A boxed lunch sits on a table, with a variety of items in the box.</s>
+response_790: 
+ A street filled with lots of traffic under trees.</s>
+response_791: 
+ A group of men standing next to each other.</s>
+response_792: 
+ A computer desk topped with a monitor and a mouse.</s>
+response_793: 
+ A large bus is traveling down the road.</s>
+response_794: 
+ A kite flying in the sky on a cloudy day.</s>
+response_795: 
+ Two zebras standing next to each other in the grass</s>
+response_796: 
+ A group of giraffes stand in a field.</s>
+response_797: 
+ A train is sitting on the train tracks.</s>
+response_798: 
+ A group of children sitting next to each other on a floor.</s>
+response_799: 
+ An elephant stands in a thicket of trees.</s>
+response_800: 
+ A group of men standing next to each other.</s>
+response_801: 
+ A person is playing tennis on an outdoor tennis court.</s>
+response_802: 
+ A person on a surfboard in the water.</s>
+response_803: 
+ A laptop computer sitting on top of a desk.</s>
+response_804: 
+ Two young children one boy one girl in a room.</s>
+response_805: 
+ a group of cows standing in a barn</s>
+response_806: 
+ A group of people riding skis on top of a snow covered slope.</s>
+response_807: 
+ A large bear walking across a grass covered forest.</s>
+response_808: 
+ An abundance of produce in a public space.</s>
+response_809: 
+ A living area with a bed and large windows.</s>
+response_810: 
+ A view of a bathroom with a large mirror.</s>
+response_811: 
+ A train traveling down train tracks near a train station.</s>
+response_812: 
+ A man in a grey shirt standing on a tennis court.</s>
+response_813: 
+ A close-up of a plate of food containing vegetables.</s>
+response_814: 
+ A panoramic view of a frozen lake in winter.</s>
+response_815: 
+ Two horses walking beside each other in a field.</s>
+response_816: 
+ A stop sign is shown in a close up view.</s>
+response_817: 
+ A woman in a suit standing in front of a building.</s>
+response_818: 
+ An elephant standing in the grass next to a tree.</s>
+response_819: 
+ A small bedroom with a bed and a desk.</s>
+response_820: 
+ A close up of a dog in the window of a car.</s>
+response_821: 
+ A man standing on top of a grass covered field.</s>
+response_822: 
+ A large cow standing in a grass field.</s>
+response_823: 
+ A herd of sheep grazing on a lush green field.</s>
+response_824: 
+ A wooded area with trees and shrubs outside.</s>
+response_825: 
+ A kitchen filled with lots of counter top space.</s>
+response_826: 
+ A surfer is riding a wave in the ocean.</s>
+response_827: 
+ A skateboarder doing a trick on a skate ramp.</s>
+response_828: 
+ A woman is holding a frisbee in a field.</s>
+response_829: 
+ A table that has many different items on it.</s>
+response_830: 
+ A man in a suit looking serious and standing.</s>
+response_831: 
+ A cat sitting on top of a table next to a monitor.</s>
+response_832: 
+ A man with a serious look on his face.</s>
+response_833: 
+ A herd of zebra grazing on top of a field.</s>
+response_834: 
+ A pizza with no cheese and lots of toppings.</s>
+response_835: 
+ A large clock tower with a clock on it's side.</s>
+response_836: 
+ A cake sitting on top of a white plate.</s>
+response_837: 
+ A large long boat on a steel body of water.</s>
+response_838: 
+ A kitchen filled with lots of counter top space.</s>
+response_839: 
+ An empty street in a city with buildings in the background.</s>
+response_840: 
+ A group of airplanes sit parked in a lot.</s>
+response_841: 
+ A pizza with a lot of toppings on it.</s>
+response_842: 
+ A dark colored car sits outside in the sun.</s>
+response_843: 
+ A group of people who are standing in the street.</s>
+response_844: 
+ A kitchen filled with lots of small appliances.</s>
+response_845: 
+ A surfer is in the middle of an ocean wave.</s>
+response_846: 
+ A home office area shares a room with a computer desk.</s>
+response_847: 
+ A close up view of a very old fire hydrant.</s>
+response_848: 
+ A person in a body suit riding waves in the ocean.</s>
+response_849: 
+ A table with multiple plates and cups.</s>
+response_850: 
+ A large clock tower beneath a tall clock.</s>
+response_851: 
+ A computer desk is shown with a monitor.</s>
+response_852: 
+ A man riding skis down a snow covered slope.</s>
+response_853: 
+ A man in uniform skiing on a snowy slope.</s>
+response_854: 
+ A clock with a lot of numbers on it</s>
+response_855: 
+ A lush green forest with lots of trees.</s>
+response_856: 
+ A group of transit buses sitting in a parking lot.</s>
+response_857: 
+ A large window with blinds drawn in a room.</s>
+response_858: 
+ A black bird is sitting on a tree branch.</s>
+response_859: 
+ A couple of people standing next to each other.</s>
+response_860: 
+ A tennis player is getting ready to hit the ball.</s>
+response_861: 
+ A group of people walking down a street at night.</s>
+response_862: 
+ A lone surfer rides the waves on the ocean.</s>
+response_863: 
+ A group of zebra standing next to each other.</s>
+response_864: 
+ A lush green field filled with trees in the background.</s>
+response_865: 
+ A man riding a horse with a blurry background.</s>
+response_866: 
+ A kitchen with a large window and a clock on the wall.</s>
+response_867: 
+ A group of men are playing baseball on a field.</s>
+response_868: 
+ A bathroom with a sink on the left side and another on the right.</s>
+response_869: 
+ A man in a grey shirt standing in front of a tree.</s>
+response_870: 
+ A bathroom with a sink, mirror, and tub.</s>
+response_871: 
+ A close up of a tray of food</s>
+response_872: 
+ A dog sits in front of a window with a chain link gate.</s>
+response_873: 
+ A group of people riding skis on top of a snow covered slope.</s>
+response_874: 
+ A train traveling down train tracks next to a forest.</s>
+response_875: 
+ A lush green forest with lots of trees.</s>
+response_876: 
+ A desktop computer with keyboard and mouse, set on a desk.</s>
+response_877: 
+ A view of a lake with trees in the background.</s>
+response_878: 
+ A close-up of a bunch of flowers on a vine.</s>
+response_879: 
+ A fire hydrant on a street with parked cars in the background.</s>
+response_880: 
+ A cat is sitting with its eyes open</s>
+response_881: 
+ A giraffe standing in the middle of a forest.</s>
+response_882: 
+ A small airplane flying through a gray sky.</s>
+response_883: 
+ An airplane sitting on the tarmac of an airport</s>
+response_884: 
+ A kitchen with a stove, oven, and cabinets.</s>
+response_885: 
+ A wave breaks in the ocean, displaying the power of the water.</s>
+response_886: 
+ A kitchen filled with lots of wooden furniture.</s>
+response_887: 
+ A surfer is riding a wave in the ocean.</s>
+response_888: 
+ A group of 3 pastries on a plate.</s>
+response_889: 
+ A lone bird stands in the water by itself.</s>
+response_890: 
+ A street view of buildings and the sky in the background</s>
+response_891: 
+ A zebra standing on top of a grass covered field.</s>
+response_892: 
+ A zebra standing next to another zebra on a field.</s>
+response_893: 
+ Three zebras standing next to each other on a dirt field.</s>
+response_894: 
+ Two airplanes are flying in the sky together.</s>
+response_895: 
+ A sheep that is laying down in the grass.</s>
+response_896: 
+ A display case filled with lots of different kinds of donuts.</s>
+response_897: 
+ A group of children sitting together in a room.</s>
+response_898: 
+ A woman on a court swinging a tennis racket.</s>
+response_899: 
+ Two sheep graze in a field during the day.</s>
+response_900: 
+ A kitchen with lots of cabinets and shelves.</s>
+response_901: 
+ A woman standing in front of a window.</s>
+response_902: 
+ A computer desk topped with a monitor next to a mouse and keyboard.</s>
+response_903: 
+ A man is standing outside in a wooded area.</s>
+response_904: 
+ A large body of water in the foreground of a city.</s>
+response_905: 
+ A large building with a bunch of windows.</s>
+response_906: 
+ A street with a lot of people walking on it</s>
+response_907: 
+ A bathroom with a toilet, sink and mirror.</s>
+response_908: 
+ A train traveling down train tracks near a forest.</s>
+response_909: 
+ Three sheep graze in a field during the day.</s>
+response_910: 
+ A living room filled with lots of furniture.</s>
+response_911: 
+ A plate of food on a table with other plates and bowls near by.</s>
+response_912: 
+ A man in black jacket standing next to a motorcycle.</s>
+response_913: 
+ A man standing on a tennis court holding a racquet.</s>
+response_914: 
+ The bus is parked on the side of the road.</s>
+response_915: 
+ The woman smiles while standing with her surfboard.</s>
+response_916: 
+ A man in a grey jacket skiing down a slope.</s>
+response_917: 
+ A man riding skis down a snow covered slope.</s>
+response_918: 
+ A black and white photo of a landscape.</s>
+response_919: 
+ A large animal is standing in the shade under a tree.</s>
+response_920: 
+ A large assortment of gray and white bags.</s>
+response_921: 
+ A display of various items in a store</s>
+response_922: 
+ A bed with a white blanket and pillows.</s>
+response_923: 
+ A group of people standing next to each other.</s>
+response_924: 
+ A zebra standing on top of a grass covered field.</s>
+response_925: 
+ An object in the sky is shown over the water.</s>
+response_926: 
+ A bowl of fruit on a table during the day.</s>
+response_927: 
+ A large bus is traveling down the road.</s>
+response_928: 
+ A man snowboarding down a snow covered hill.</s>
+response_929: 
+ Two men standing next to each other with their eyes closed.</s>
+response_930: 
+ A wave breaks in the ocean, displaying the power of nature.</s>
+response_931: 
+ A flock of birds standing next to each other.</s>
+response_932: 
+ A baseball player getting ready to hit the ball.</s>
+response_933: 
+ A glass of liquid is on a glass plate.</s>
+response_934: 
+ A train traveling down train tracks near a forest.</s>
+response_935: 
+ A kitchen with lots of counter top space.</s>
+response_936: 
+ A group of benches in a park face the trees.</s>
+response_937: 
+ A man is standing with a surfboard in front of him.</s>
+response_938: 
+ A man standing on top of a grass covered field.</s>
+response_939: 
+ A field with many grasses and trees in the background.</s>
+response_940: 
+ The zebras are grazing on the grassy field.</s>
+response_941: 
+ A large elephant standing in the water.</s>
+response_942: 
+ A man in a gray shirt in a baseball stadium.</s>
+response_943: 
+ A bookshelf with various books and video tapes.</s>
+response_944: 
+ A large group of people riding bikes together.</s>
+response_945: 
+ A crowd of people standing next to each other.</s>
+response_946: 
+ A man riding skis on top of a snow covered slope.</s>
+response_947: 
+ A child looks into the camera and smiles.</s>
+response_948: 
+ A man riding a wave on top of a surfboard.</s>
+response_949: 
+ A man in a suit looks directly at the camera.</s>
+response_950: 
+ A woman walking down a street next to other people.</s>
+response_951: 
+ Two giraffes standing next to each other in a wooded area.</s>
+response_952: 
+ A bathroom with a tub, shower and toilet.</s>
+response_953: 
+ A person on a motorcycle riding on a street.</s>
+response_954: 
+ A man holding a tennis racquet on a tennis court.</s>
+response_955: 
+ A woman's face is shown very close up.</s>
+response_956: 
+ A desk with a computer and a monitor on the wall above it.</s>
+response_957: 
+ A group of zebras standing in a field.</s>
+response_958: 
+ A city bus is traveling down the street</s>
+response_959: 
+ A room with many windows and a bed with white sheets.</s>
+response_960: 
+ A beach with people and kites flying in the sky.</s>
+response_961: 
+ A group of people riding skis on top of a snow covered slope.</s>
+response_962: 
+ A herd of cattle standing on top of a grass covered field.</s>
+response_963: 
+ A small, hard-shelled fruit sitting on a plate.</s>
+response_964: 
+ A fighter jet flying through a foggy gray sky.</s>
+response_965: 
+ A group of people riding skis on top of a snow covered slope.</s>
+response_966: 
+ A kitchen with a refrigerator and a microwave.</s>
+response_967: 
+ A close up of the front end of a motorcycle.</s>
+response_968: 
+ A group of people riding skis on top of a snow covered slope.</s>
+response_969: 
+ A bus parked on the side of a road near a building.</s>
+response_970: 
+ A group of sheep grazing in a field.</s>
+response_971: 
+ A man in a black shirt holding a tennis racquet.</s>
+response_972: 
+ A large body of water with many boats.</s>
+response_973: 
+ A group of people riding bikes down a street.</s>
+response_974: 
+ A couple of birds standing on the ground.</s>
+response_975: 
+ A man eating something with his mouth closed.</s>
+response_976: 
+ A large black cow standing in a field.</s>
+response_977: 
+ A group of people riding skis on top of a snow covered slope.</s>
+response_978: 
+ A train yard filled with lots of train cars.</s>
+response_979: 
+ A giraffe standing in a forest filled with trees.</s>
+response_980: 
+ A toilet in a bathroom with a towel rack.</s>
+response_981: 
+ A living room filled with furniture and a large window.</s>
+response_0: 
+ A group of people standing around a kitchen preparing food.</s>
+response_1: 
+ A man cooking in a kitchen with a apron on.</s>
+response_2: 
+ A man surfing on a wave in the ocean.</s>
+response_3: 
+ A group of people riding kite boards on top of a body of water.</s>
+response_4: 
+ A three story building in a small town</s>
+response_5: 
+ A close-up of a plate of food containing broccoli.</s>
+response_6: 
+ A waxed paper plate with a half of a melon on it.</s>
+response_7: 
+ A group of people playing a game of frisbee.</s>
+response_8: 
+ A large black cat sitting on top of a rock.</s>
+response_9: 
+ A man riding a wave on top of a surfboard.</s>
+response_10: 
+ A large jetliner flying through a gray sky.</s>
+response_11: 
+ A woman riding a wave on top of a surfboard.</s>
+response_12: 
+ A brown bear walking across a dirt field.</s>
+response_13: 
+ A woman sitting in a chair in a living room.</s>
+response_14: 
+ A large bridge crossing over a body of water.</s>
+response_15: 
+ A living room filled with lots of furniture.</s>
+response_16: 
+ A man in a suit looks towards the camera</s>
+response_17: 
+ A herd of cattle grazing on a grass covered field.</s>
+response_18: 
+ A man holding a tennis racquet on a tennis court.</s>
+response_19: 
+ A bathroom with a toilet and a tub below a mirror.</s>
+response_20: 
+ A boy sitting down on a bed in his pajamas.</s>
+response_21: 
+ A group of men are dressed up in fancy clothing.</s>
+response_22: 
+ A clock tower with a clock on it's side.</s>
+response_23: 
+ Two people are walking through a wooded area.</s>
+response_24: 
+ A giraffe standing in a grassy field next to trees.</s>
+response_25: 
+ A group of motorcycles parked next to each other on a street.</s>
+response_26: 
+ A plate holds a group of fruits on a table.</s>
+response_27: 
+ A small airplane sitting on top of a field.</s>
+response_28: 
+ Two birds with gray wings are standing on a branch.</s>
+response_29: 
+ A woman laying on top of a bed with a pillow.</s>
+response_30: 
+ A banana on a plate cut in half.</s>
+response_31: 
+ A living room with a sofa, chairs, coffee table and a tv.</s>
+response_32: 
+ A living room with a bed and couches.</s>
+response_33: 
+ A kitchen with a lot of shelves and cupboards.</s>
+response_34: 
+ A large pizza with slices of pizza on a pizza board.</s>
+response_35: 
+ A road with a lot of traffic during the day.</s>
+response_36: 
+ A bus that is driving down the street.</s>
+response_37: 
+ A closeup of food that appears to be toast.</s>
+response_38: 
+ A man getting ready to hit a tennis ball.</s>
+response_39: 
+ A group of boats floating in a body of water.</s>
+response_40: 
+ A man standing with his back to a wall.</s>
+response_41: 
+ A giraffe standing in a grassy field next to trees.</s>
+response_42: 
+ An old train sits on the tracks by a mountain.</s>
+response_43: 
+ Three sheep standing in a body of water.</s>
+response_44: 
+ A vase filled with flowers sitting on a table.</s>
+response_45: 
+ A group of people standing next to each other on a field.</s>
+response_46: 
+ A large passenger jet sitting on top of a runway.</s>
+response_47: 
+ A city street that has cars parked on the side of it.</s>
+response_48: 
+ A man holding a tennis racquet on a tennis court.</s>
+response_49: 
+ A bird with a serious look on its face.</s>
+response_50: 
+ A person sitting on a bench outside a building.</s>
+response_51: 
+ A beach with a body of water next to it.</s>
+response_52: 
+ A couple of planes flying through the sky.</s>
+response_53: 
+ A bird is sitting in the water on a beach.</s>
+response_54: 
+ A motorcycle parked on the side of a street.</s>
+response_55: 
+ A train going down the train tracks by a city.</s>
+response_56: 
+ A loaf of bread on a plate with a knife.</s>
+response_57: 
+ A baseball player getting ready to swing at a ball.</s>
+response_58: 
+ A street with cars parked on the side of it.</s>
+response_59: 
+ A kitchen with a pot and kettle on the stove.</s>
+response_60: 
+ A woman holding a tennis racket on a tennis court.</s>
+response_61: 
+ A close-up of a plate of food containing broccoli.</s>
+response_62: 
+ A man on a skateboard going down a hill by the woods</s>
+response_63: 
+ A table full of food on a plate at a time.</s>
+response_64: 
+ A skateboarder is doing tricks at a skate park.</s>
+response_65: 
+ A man sitting on a bench next to a small group of people.</s>
+response_66: 
+ A zebra standing in a grassy field with trees in the background.</s>
+response_67: 
+ A fire hydrant sits on the side of the road.</s>
+response_68: 
+ A black and white photo of a person surfing.</s>
+response_69: 
+ A giraffe that is standing near the trees.</s>
+response_70: 
+ A close-up of a plate of food containing broccoli.</s>
+response_71: 
+ A large body of water sitting under a blue sky.</s>
+response_72: 
+ A group of large boats on a body of water.</s>
+response_73: 
+ A person flying a kite in the sky on a windy day.</s>
+response_74: 
+ A man is eating a large slice of pizza.</s>
+response_75: 
+ A living room with a table and chairs.</s>
+response_76: 
+ A person is holding a cell phone in their hand.</s>
+response_77: 
+ A teddy bear that is stuffed and sitting.</s>
+response_78: 
+ A train traveling down train tracks next to a forest.</s>
+response_79: 
+ A giraffe standing in the forest next to a tree.</s>
+response_80: 
+ A small boat in the water near a city.</s>
+response_81: 
+ The trees are leafy and green, and the grass is tall and green.</s>
+response_82: 
+ A surfer is riding a wave in the ocean.</s>
+response_83: 
+ A man standing on top of a field with a green grass ground.</s>
+response_84: 
+ A dog laying on the ground in the sun.</s>
+response_85: 
+ A man holding a tennis racquet on top of a tennis court.</s>
+response_86: 
+ A man riding a skateboard on the side of a body of water.</s>
+response_87: 
+ A herd of cows standing in a grassy field</s>
+response_88: 
+ A street with cars parked on the side of it.</s>
+response_89: 
+ A large clock mounted above a kitchen under a window.</s>
+response_90: 
+ A clock tower with a steeple and a bell on top.</s>
+response_91: 
+ A plate of food on a table</s>
+response_92: 
+ A man surfing on a wave at the beach.</s>
+response_93: 
+ A bunch of bananas are shown in a close up view.</s>
+response_94: 
+ A close up of a dog looking sad.</s>
+response_95: 
+ A view of a bunch of shelves in a kitchen.</s>
+response_96: 
+ A group of people sitting on couches in a living room</s>
+response_97: 
+ A large house with a tree on top of it.</s>
+response_98: 
+ A bicycle parked on the street next to a parking meter.</s>
+response_99: 
+ A young girl is dressed in a white top.</s>
+response_100: 
+ A person standing outside on a sidewalk in a city.</s>
+response_101: 
+ A bathroom with a toilet and a sink.</s>
+response_102: 
+ A bird stands still while looking forward.</s>
+response_103: 
+ A group of boats sitting along a body of water.</s>
+response_104: 
+ A man riding a wave on top of a surfboard.</s>
+response_105: 
+ A train traveling down train tracks near a tall building.</s>
+response_106: 
+ A man riding skis down a forest covered slope.</s>
+response_107: 
+ A kitchen with lots of counter top space and cupboards.</s>
+response_108: 
+ A man riding a wave on top of a surfboard.</s>
+response_109: 
+ A close-up of a plate of food containing broccoli.</s>
+response_110: 
+ A large jetliner sitting on top of an airport runway.</s>
+response_111: 
+ A girl is getting ready to kick a soccer ball.</s>
+response_112: 
+ A baseball player getting ready to swing at a ball.</s>
+response_113: 
+ A man in a jacket on a horse.</s>
+response_114: 
+ A plate of chopped up vegetables is shown.</s>
+response_115: 
+ A large jetliner sitting on top of a runway.</s>
+response_116: 
+ A group of people sitting next to each other on a field.</s>
+response_117: 
+ A living room filled with furniture and a large window.</s>
+response_118: 
+ A bathroom with a sink, mirror, and cupboard.</s>
+response_119: 
+ A man holding a tennis racquet on a tennis court.</s>
+response_120: 
+ A close-up of a plate of food containing broccoli.</s>
+response_121: 
+ A bathroom with a double sink and mirror.</s>
+response_122: 
+ A kitchen with lots of counter top space and cupboards.</s>
+response_123: 
+ A man in a tie and suit standing with his legs crossed.</s>
+response_124: 
+ A bathroom with two sinks, a bathtub and a toilet.</s>
+response_125: 
+ A lush green forest filled with trees and a path.</s>
+response_126: 
+ A man riding a horse on top of a sandy beach.</s>
+response_127: 
+ A group of people sitting at tables outside</s>
+response_128: 
+ A man who is holding a surfboard in the ocean.</s>
+response_129: 
+ Three zebras standing near each other in the grass.</s>
+response_130: 
+ A man in a suit looks directly at the camera.</s>
+response_131: 
+ A man riding on the back of a motorcycle.</s>
+response_132: 
+ A group of boats floating in a body of water.</s>
+response_133: 
+ A group of giraffes walk in a dirt field.</s>
+response_134: 
+ A container with a lid is placed on a counter.</s>
+response_135: 
+ A close-up of a plate of food containing broccoli.</s>
+response_136: 
+ A motorcycle is parked on a road near a field.</s>
+response_137: 
+ a big piece of wood is standing in a room</s>
+response_138: 
+ A woman sitting at a table by a street.</s>
+response_139: 
+ A bathroom with a sink, mirror, and cupboard.</s>
+response_140: 
+ A bicycle parked in a grassy area near trees.</s>
+response_141: 
+ The sink is stopped up on the kitchen side of the house.</s>
+response_142: 
+ A giraffe walking in the grass during the day.</s>
+response_143: 
+ A small airplane flying through a blue sky.</s>
+response_144: 
+ A close up of a giraffe looking at the camera.</s>
+response_145: 
+ A large jetliner flying through a gray sky.</s>
+response_146: 
+ A plate of food on a table</s>
+response_147: 
+ A fire hydrant on a street near a sidewalk.</s>
+response_148: 
+ A man riding skis down a snow covered slope.</s>
+response_149: 
+ A zebra standing in a grassy field near a tree.</s>
+response_150: 
+ A group of children playing a game of soccer.</s>
+response_151: 
+ A computer that is turned on sitting on a desk.</s>
+response_152: 
+ A man looks directly at the camera.</s>
+response_153: 
+ A bear standing in a grassy field near trees.</s>
+response_154: 
+ A living room filled with furniture and a large window.</s>
+response_155: 
+ A woman laying on a bed with a blanket.</s>
+response_156: 
+ A man holding a tennis racquet on a tennis court.</s>
+response_157: 
+ A man riding on the back of a brown horse.</s>
+response_158: 
+ A picture of a bathroom that is being remodeled.</s>
+response_159: 
+ A double decker bus driving down a street.</s>
+response_160: 
+ A large bus on a open city street.</s>
+response_161: 
+ A city street filled with lots of parked cars.</s>
+response_162: 
+ A person standing on a road near a hill.</s>
+response_163: 
+ A large clock tower in front of a building.</s>
+response_164: 
+ A baseball player standing on top of a field.</s>
+response_165: 
+ A group of sheep that are standing in the grass.</s>
+response_166: 
+ A kitchen with a lot of things on the wall.</s>
+response_167: 
+ A man riding a wave on top of a surfboard.</s>
+response_168: 
+ A bird that is standing in the grass.</s>
+response_169: 
+ A large jetliner sitting on top of a runway.</s>
+response_170: 
+ A close-up of a plate of food that includes bread and meat.</s>
+response_171: 
+ A man in a jacket looks at the camera.</s>
+response_172: 
+ A close up view of a pair of scissors</s>
+response_173: 
+ a group of people playing soccer in a field</s>
+response_174: 
+ A black dog wading through the water of a beach.</s>
+response_175: 
+ A train going down the train tracks in the country.</s>
+response_176: 
+ A toilet with the lid closed in a bathroom.</s>
+response_177: 
+ A man riding skis down a snow covered slope.</s>
+response_178: 
+ A cat sitting on top of a bed in a room.</s>
+response_179: 
+ A large building with a clock tower above it.</s>
+response_180: 
+ A large group of people riding bikes down a road.</s>
+response_181: 
+ Three sheep standing near each other in an enclosure.</s>
+response_182: 
+ A giraffe that is looking at something on the side.</s>
+response_183: 
+ An elephant is walking on a dirt field.</s>
+response_184: 
+ A group of benches sitting next to each other on a sidewalk.</s>
+response_185: 
+ A lush green forest sitting next to a dirt road.</s>
+response_186: 
+ A large display of fruit and vegetables is set up in a grocery store.</s>
+response_187: 
+ A group of cars driving down a street.</s>
+response_188: 
+ A sheep laying on top of a sidewalk next to a wall.</s>
+response_189: 
+ A group of people sitting around a table covered in food.</s>
+response_190: 
+ A living room with a couch and chairs.</s>
+response_191: 
+ A group of transit buses sitting in a parking lot.</s>
+response_192: 
+ A group of zebra standing next to each other on a field.</s>
+response_193: 
+ The train is on the tracks in the country.</s>
+response_194: 
+ A group of people standing in a field.</s>
+response_195: 
+ A group of people that are standing in the snow.</s>
+response_196: 
+ A group of horse drawn carriages traveling down a road.</s>
+response_197: 
+ A man riding skis down a snow covered slope.</s>
+response_198: 
+ A group of birds standing on a beach next to the ocean.</s>
+response_199: 
+ A plate of food on a table</s>
+response_200: 
+ A street in front of some buildings and a couple of traffic lights.</s>
+response_201: 
+ A large clock tower under a clear blue sky.</s>
+response_202: 
+ A large clock mounted to the side of a building.</s>
+response_203: 
+ A group of people standing around a table covered in food.</s>
+response_204: 
+ A stop sign that has some foreign words on it.</s>
+response_205: 
+ A large bus is parked on the side of the road.</s>
+response_206: 
+ A train traveling down train tracks next to a bunch of dirt.</s>
+response_207: 
+ A bathroom with a toilet, sink and mirror.</s>
+response_208: 
+ A kitchen with a sink, a stove, and a dishwasher.</s>
+response_209: 
+ A large jetliner flying through a cloudy blue sky.</s>
+response_210: 
+ A group of people walk in a park</s>
+response_211: 
+ A surfer is riding a wave in the ocean.</s>
+response_212: 
+ A woman sitting at a table with a plate of food.</s>
+response_213: 
+ A close-up of a plate of food containing broccoli.</s>
+response_214: 
+ Three men are standing near each other and one of them is holding a tennis racket.</s>
+response_215: 
+ A large clock tower in the middle of a town.</s>
+response_216: 
+ A group of zebras stands in a field.</s>
+response_217: 
+ A person eating a hot dog with a bun.</s>
+response_218: 
+ A group of zebra walking next to some trees.</s>
+response_219: 
+ A large body of water with a boat in it.</s>
+response_220: 
+ A kite flying in the sky on a cloudy day.</s>
+response_221: 
+ A man sitting on a motorcycle on a road.</s>
+response_222: 
+ A close up of two giraffes standing next to each other.</s>
+response_223: 
+ A close-up of a plate of vegetables, including broccoli.</s>
+response_224: 
+ A train traveling down train tracks next to other tracks.</s>
+response_225: 
+ A large, black locamotive that is pulling a train down the tracks.</s>
+response_226: 
+ A bathroom with a toilet, sink and mirror.</s>
+response_227: 
+ A group of people standing on a sidewalk.</s>
+response_228: 
+ A large transport truck driving through a city.</s>
+response_229: 
+ A man sitting down next to a bed in a  room.</s>
+response_230: 
+ A couple of people riding skateboards on a street.</s>
+response_231: 
+ A large white bear walking across a cement floor.</s>
+response_232: 
+ A bicycle parked on a street with trees in the background.</s>
+response_233: 
+ A kite flying in the sky over a beach.</s>
+response_234: 
+ A cat is sitting on a cushioned surface.</s>
+response_235: 
+ The water in the mountain is not blue.</s>
+response_236: 
+ A train traveling down train tracks near a bunch of boats.</s>
+response_237: 
+ A man riding skis down the side of a snow covered slope.</s>
+response_238: 
+ A man riding a skateboard down a street.</s>
+response_239: 
+ A picture of a building and the sky.</s>
+response_240: 
+ A bus driving down the street near another bus.</s>
+response_241: 
+ A plate of food with vegetables and fruit.</s>
+response_242: 
+ A woman holding a tennis racket on a court.</s>
+response_243: 
+ A group of people playing tennis on a court.</s>
+response_244: 
+ A couple of cows standing in a field.</s>
+response_245: 
+ A view of a plain wooden bench with a white painted back.</s>
+response_246: 
+ A man riding skis down a snow covered slope.</s>
+response_247: 
+ A person on a skateboard on a ramp.</s>
+response_248: 
+ A woman looks directly into the camera.</s>
+response_249: 
+ A bathroom with a sink, a mirror, and a cupboard.</s>
+response_250: 
+ A dirt road sitting in the middle of a field.</s>
+response_251: 
+ A group of people sitting around each other in a room.</s>
+response_252: 
+ A giraffe that is walking in an enclosure.</s>
+response_253: 
+ A man riding a skateboard down the side of a street.</s>
+response_254: 
+ A dog sits in the back of a car with his head resting on a backrest.</s>
+response_255: 
+ A small cheese pizza with a few toppings.</s>
+response_256: 
+ A man riding a snowboard down the side of a snow covered mountain.</s>
+response_257: 
+ A train going down the train tracks by a street.</s>
+response_258: 
+ A person walking across a beach towards the ocean.</s>
+response_259: 
+ Three surfers catch a wave in the ocean.</s>
+response_260: 
+ A woman sitting on the ground with a smile.</s>
+response_261: 
+ A man on a skateboard doing a trick.</s>
+response_262: 
+ A giraffe standing in a grassy field next to trees.</s>
+response_263: 
+ A vase with a bunch of different types of flowers.</s>
+response_264: 
+ A man riding skis down a snow covered slope.</s>
+response_265: 
+ A brown bear standing in a grassy field.</s>
+response_266: 
+ A street sign next to a building on a city street.</s>
+response_267: 
+ A pizza topped with vegetables on a pizza pan.</s>
+response_268: 
+ A cat is sitting with its paws crossed.</s>
+response_269: 
+ A computer desk topped with a monitor and a mouse.</s>
+response_270: 
+ A man is sitting down eating a meal</s>
+response_271: 
+ A large truck with a gun rack and a passenger seat.</s>
+response_272: 
+ A cat is laying on top of a bag.</s>
+response_273: 
+ A person riding a skateboard on a ledge.</s>
+response_274: 
+ An elephant walking along a dirt path in the forest.</s>
+response_275: 
+ A large building with a clock tower on top.</s>
+response_276: 
+ A group of boats floating in a body of water.</s>
+response_277: 
+ An old building with a clock tower on it.</s>
+response_278: 
+ A group of giraffes stand next to each other.</s>
+response_279: 
+ A woman sitting on a bench in a park.</s>
+response_280: 
+ A group of people standing on a sidewalk waiting for buses.</s>
+response_281: 
+ A man with a brown nose and hair.</s>
+response_282: 
+ A train traveling down train tracks near a forest.</s>
+response_283: 
+ A living room filled with furniture and a large vase.</s>
+response_284: 
+ A man holding a tennis racquet on a tennis court.</s>
+response_285: 
+ A close up of a giraffe on a sunny day</s>
+response_286: 
+ A group of people sitting around a living room near a dining room table.</s>
+response_287: 
+ A group of people sitting around a table.</s>
+response_288: 
+ A person standing in a room with a window.</s>
+response_289: 
+ A man holding a tennis racquet on a tennis court.</s>
+response_290: 
+ A woman holding a tennis racket in her hand.</s>
+response_291: 
+ A group of various items in a window display.</s>
+response_292: 
+ A kitchen with lots of counter top space and cupboards.</s>
+response_293: 
+ A group of people standing next to a bunch of vending machines.</s>
+response_294: 
+ A cat laying on top of a bed on it's side.</s>
+response_295: 
+ A giraffe walking through a forest filled with trees.</s>
+response_296: 
+ A group of people playing tennis on a court.</s>
+response_297: 
+ A living room filled with furniture and a large window.</s>
+response_298: 
+ A large sign on the side of a street.</s>
+response_299: 
+ A man in a uniform is standing next to another man.</s>
+response_300: 
+ A dog is laying down on the pantle of a couch.</s>
+response_301: 
+ A street with lots of traffic driving on it.</s>
+response_302: 
+ A large brown bear poses for a picture.</s>
+response_303: 
+ A bathroom with a toilet, sink, mirror and tub.</s>
+response_304: 
+ A close-up of a plate of food containing broccoli.</s>
+response_305: 
+ A large cat is laying down on a sofa</s>
+response_306: 
+ A close up of a sheep with a thick coat of hair</s>
+response_307: 
+ A living room with a t.v. and a couch.</s>
+response_308: 
+ A large grassy field with some sheep grazing.</s>
+response_309: 
+ A street sign on a pole over a street.</s>
+response_310: 
+ A woman sitting on top of a couch in a living room.</s>
+response_311: 
+ a couple of cows are standing in a field</s>
+response_312: 
+ A surfer is riding a small wave in the ocean.</s>
+response_313: 
+ A group of bananas still on the stem.</s>
+response_314: 
+ A giraffe that is walking in an enclosure.</s>
+response_315: 
+ A dog is sitting in the car and looking out the window.</s>
+response_316: 
+ A couple of clocks sitting on the side of a wall.</s>
+response_317: 
+ A bear is walking on the rocks and has black paws.</s>
+response_318: 
+ A cat laying on a bed with a wooden head board.</s>
+response_319: 
+ A group of people are gathered around a table of food.</s>
+response_320: 
+ A baseball player is getting ready to hit a ball.</s>
+response_321: 
+ A close-up of a green plant with stems and leaves.</s>
+response_322: 
+ A surfer is riding a wave in the ocean.</s>
+response_323: 
+ A man riding a snowboard down a snow covered slope.</s>
+response_324: 
+ A large body of water next to a city.</s>
+response_325: 
+ A person sitting on a motorcycle on a road.</s>
+response_326: 
+ Two horses stand beside each other in the grass.</s>
+response_327: 
+ A sheep standing in a grassy field on a cloudy day.</s>
+response_328: 
+ A pick up truck sitting on the side of the road.</s>
+response_329: 
+ A pile of apples sitting on top of a table.</s>
+response_330: 
+ A group of people playing tennis on a court.</s>
+response_331: 
+ A zebra standing on top of a dirt field.</s>
+response_332: 
+ A kitchen with a sink, a stove, and cabinets.</s>
+response_333: 
+ A man riding a skateboard on a sidewalk.</s>
+response_334: 
+ A group of people sitting around a dinner table.</s>
+response_335: 
+ A computer desk is shown in dim lighting.</s>
+response_336: 
+ A group of people riding skis on top of a snow covered slope.</s>
+response_337: 
+ A man holding a tennis racquet on a tennis court.</s>
+response_338: 
+ A bathroom with a sink, mirror and tub.</s>
+response_339: 
+ A wave breaks on a beach, showcasing the power of the ocean.</s>
+response_340: 
+ A bird is sitting on the limb of a tree.</s>
+response_341: 
+ A view of a bunch of trees in the forest.</s>
+response_342: 
+ A kite that is flying in the sky.</s>
+response_343: 
+ A bird that is standing on a tree branch.</s>
+response_344: 
+ A group of giraffes walk in the grass.</s>
+response_345: 
+ A kitchen with a sink, counter, and a cupboard.</s>
+response_346: 
+ A group of people walking down a street.</s>
+response_347: 
+ A small airplane sitting on top of a tarmac.</s>
+response_348: 
+ A bunch of different type of fruit in a store.</s>
+response_349: 
+ A person is getting ready to throw a frisbee.</s>
+response_350: 
+ A motorcycle is parked in a grassy field.</s>
+response_351: 
+ A cat looking at a computer keyboard.</s>
+response_352: 
+ A close up of a cow's face</s>
+response_353: 
+ A street filled with lots of traffic under trees.</s>
+response_354: 
+ A group of people standing next to each other.</s>
+response_355: 
+ A large ship is sitting in the ocean.</s>
+response_356: 
+ A bunch of sliced up vegetables on a plate.</s>
+response_357: 
+ A bathroom with white walls, and white tile.</s>
+response_358: 
+ A man standing in a kitchen with appliances.</s>
+response_359: 
+ A small group of elephants stand together in the grass.</s>
+response_360: 
+ A man in a suit looking off into the distance</s>
+response_361: 
+ A large jetliner sitting on top of a runway.</s>
+response_362: 
+ An elephant standing in the dirt near trees.</s>
+response_363: 
+ A plate of food on a table.</s>
+response_364: 
+ A close-up of a plate of food containing broccoli.</s>
+response_365: 
+ An elephant standing on top of a rocky ground.</s>
+response_366: 
+ A dining area with a large table and various chairs.</s>
+response_367: 
+ A group of people who are standing in the grass.</s>
+response_368: 
+ A group of people riding skis on top of a snow covered slope.</s>
+response_369: 
+ A person riding a horse in a grassy field</s>
+response_370: 
+ A vase with flowers on a surface with other objects.</s>
+response_371: 
+ A person who is outside walking by some cars.</s>
+response_372: 
+ A man riding a wave on top of a surfboard.</s>
+response_373: 
+ A train sits at a train station under a tall clock tower.</s>
+response_374: 
+ The back end of a pick up truck sitting in a driveway.</s>
+response_375: 
+ A man flying through the air on a set of wings.</s>
+response_376: 
+ A street scene with cars and trees in the background.</s>
+response_377: 
+ A large elephant is shown walking through a grassy area.</s>
+response_378: 
+ A man surfing a wave in the ocean.</s>
+response_379: 
+ A bunch of kites flying in the sky.</s>
+response_380: 
+ A bathroom with a toilet, sink and shower.</s>
+response_381: 
+ The baseball players are playing their positions on the field.</s>
+response_382: 
+ The view of a couch from across the room.</s>
+response_383: 
+ A bathroom with a sink, a mirror and a cupboard.</s>
+response_384: 
+ A group of people riding skis down a snow covered slope.</s>
+response_385: 
+ Two zebras standing next to each other in a field.</s>
+response_386: 
+ An animal sitting in a field during the day.</s>
+response_387: 
+ Two sheep standing next to each other on a hill.</s>
+response_388: 
+ A street with cars parked on the side of it</s>
+response_389: 
+ A bed with sheets, pillows and a cat on it.</s>
+response_390: 
+ A desktop computer sitting on top of a desk.</s>
+response_391: 
+ A street view of a road with cars and trees.</s>
+response_392: 
+ A large brown bear laying on top of a rocky ground.</s>
+response_393: 
+ A large bus on a open city street.</s>
+response_394: 
+ A street sign on a pole over a street.</s>
+response_395: 
+ A bathroom with a window, sink, and mirror.</s>
+response_396: 
+ two bears laying down on a rock formation</s>
+response_397: 
+ A dog is running in the grass .</s>
+response_398: 
+ A vase with a flower sits on a table.</s>
+response_399: 
+ A plate of food and drinks on a table.</s>
+response_400: 
+ A parking lot full of cars next to a  highway.</s>
+response_401: 
+ A close up of a brown furry animal.</s>
+response_402: 
+ A herd of sheep grazing on a lush green field.</s>
+response_403: 
+ An old truck is parked outside of a building</s>
+response_404: 
+ A giraffe standing in the forest near trees.</s>
+response_405: 
+ A large body of water with lots of boats floating on it.</s>
+response_406: 
+ A group of giraffes stand in a grassy area.</s>
+response_407: 
+ A vase with flowers on a table outside.</s>
+response_408: 
+ A man in a suit looking at the camera</s>
+response_409: 
+ A woman smiling at the camera during a night time social gathering.</s>
+response_410: 
+ A man sitting on a bench next to another bench.</s>
+response_411: 
+ A plate of food on a table</s>
+response_412: 
+ A person flying a kite on a sandy beach.</s>
+response_413: 
+ A kitchen with a refrigerator, microwave and oven.</s>
+response_414: 
+ A kitchen with a center island next to a  dinning room.</s>
+response_415: 
+ A toaster sitting on top of a shelf.</s>
+response_416: 
+ A closeup of some very tasty looking food.</s>
+response_417: 
+ A boy skateboards in a skate park with other people watching.</s>
+response_418: 
+ A group of people who are walking in a city.</s>
+response_419: 
+ A surfer is riding a wave in the ocean.</s>
+response_420: 
+ A man riding a motorcycle on a dirty road.</s>
+response_421: 
+ A bathroom with a toilet and a toilet paper holder.</s>
+response_422: 
+ A bathroom with a toilet and a sink.</s>
+response_423: 
+ A computer desk topped with a monitor and a mouse.</s>
+response_424: 
+ A group of giraffes stand in a field.</s>
+response_425: 
+ A cat is laying down in the sun.</s>
+response_426: 
+ Two people with their backs doing tricks outside.</s>
+response_427: 
+ A large group of people are sitting at tables with drinks.</s>
+response_428: 
+ A kitchen with lots of counter top space and cupboards.</s>
+response_429: 
+ A group of sheep standing next to each other.</s>
+response_430: 
+ A pile of fruits and vegetables sitting on a table.</s>
+response_431: 
+ A zebra standing in the grass next to the shade.</s>
+response_432: 
+ A close-up of food that includes broccoli and fennel.</s>
+response_433: 
+ A man skateboards down a street with a helmet on.</s>
+response_434: 
+ A train traveling on a track outside during the day.</s>
+response_435: 
+ A kitchen with a sink, counters, and a cupboard.</s>
+response_436: 
+ A group of people sitting around a dinner table.</s>
+response_437: 
+ A giraffe that is standing in the grass.</s>
+response_438: 
+ A person riding a horse with trees in the background.</s>
+response_439: 
+ A bathroom with a sink, mirror and tub.</s>
+response_440: 
+ A train traveling down train tracks near a forest.</s>
+response_441: 
+ A computer desk is shown with a keyboard and mouse.</s>
+response_442: 
+ A large building with a clock on the front.</s>
+response_443: 
+ A living room filled with furniture and a large wooden floor.</s>
+response_444: 
+ A pile of apples sitting on top of a table.</s>
+response_445: 
+ A man riding skis down a snow covered slope.</s>
+response_446: 
+ A group of people stand in the snow with skis and snowboards.</s>
+response_447: 
+ A large jet sitting on top of an airport tarmac.</s>
+response_448: 
+ A herd of wild animals grazing on a lush green field.</s>
+response_449: 
+ A man riding skis down a snow covered slope.</s>
+response_450: 
+ A bathroom with a toilet and a sink.</s>
+response_451: 
+ A zebra standing in a grassy field next to trees.</s>
+response_452: 
+ A group of people riding skis across a snow covered ground.</s>
+response_453: 
+ A man riding a wave on top of a surfboard.</s>
+response_454: 
+ A man is putting his hand in his mouth.</s>
+response_455: 
+ A man on a skateboard riding a wave.</s>
+response_456: 
+ A herd of sheep grazing on a lush green field.</s>
+response_457: 
+ A street with cars parked on the side of it</s>
+response_458: 
+ A man in a suit looks directly at the camera.</s>
+response_459: 
+ A person is in the water with a blue board.</s>
+response_460: 
+ Two zebras are standing near each other in the grass.</s>
+response_461: 
+ Three zebras standing near a wooded area in the grass.</s>
+response_462: 
+ A field with trees and some grass on it.</s>
+response_463: 
+ A bathroom with a sink, mirror, and tub.</s>
+response_464: 
+ A man riding a wave on top of a surfboard.</s>
+response_465: 
+ A herd of zebra walking next to each other on a field.</s>
+response_466: 
+ A cat sitting on the floor looking up</s>
+response_467: 
+ A woman sitting in a chair next to a  man.</s>
+response_468: 
+ An elephant is walking through the brush, possibly fixing his tusks.</s>
+response_469: 
+ A group of wooden chairs sitting next to each other.</s>
+response_470: 
+ A man in a dress shirt and tie standing.</s>
+response_471: 
+ A large body of water sitting next to a city.</s>
+response_472: 
+ A man riding a wave on top of a surfboard.</s>
+response_473: 
+ A group of wooden benches sitting next to each other.</s>
+response_474: 
+ A cat sitting on a couch in a living room.</s>
+response_475: 
+ A giraffe standing in a grassy field on a sunny day.</s>
+response_476: 
+ A man riding skis down a snow covered slope.</s>
+response_477: 
+ A zebra standing in a grassy field next to trees.</s>
+response_478: 
+ A row of motorcycles parked next to each other on the street</s>
+response_479: 
+ A forest filled with trees and shrubbery is illuminated by a bright sun.</s>
+response_480: 
+ A cake that is sitting on a table.</s>
+response_481: 
+ A busy city street with a lot of cars.</s>
+response_482: 
+ A kitchen with lots of counter top space.</s>
+response_483: 
+ A close up of a pizza on a plate.</s>
+response_484: 
+ A train passing down the track near a town.</s>
+response_485: 
+ A man in a white shirt holding a tennis racquet.</s>
+response_486: 
+ A person skiing in the snow near trees.</s>
+response_487: 
+ A row of houses lined up along a street.</s>
+response_488: 
+ A herd of cows standing around in a field.</s>
+response_489: 
+ A large body of water with small waves.</s>
+response_490: 
+ A herd of cows standing on a lush green field.</s>
+response_491: 
+ A man in a blue shirt holding a tennis racket.</s>
+response_492: 
+ A small elephant is standing in a field.</s>
+response_493: 
+ Three elephants stand near each other in a rocky area.</s>
+response_494: 
+ A group of people riding skis down a snow covered slope.</s>
+response_495: 
+ A bus parked on the side of a street.</s>
+response_496: 
+ An elephant standing in a forest next to trees.</s>
+response_497: 
+ A giraffe standing in a grassy area with trees in the background.</s>
+response_498: 
+ A couple of zebra standing next to each other.</s>
+response_499: 
+ A window with a white frame in a kitchen.</s>
+response_500: 
+ A man is eating a large sandwich held in his hands.</s>
+response_501: 
+ The computer desk is in front of a window.</s>
+response_502: 
+ A person on a surf board in the water.</s>
+response_503: 
+ A train on the tracks in the country</s>
+response_504: 
+ A train traveling down train tracks next to a forest.</s>
+response_505: 
+ A bus that is sitting on the side of the street.</s>
+response_506: 
+ A kitchen with a lot of cabinets and cooking utensils.</s>
+response_507: 
+ A pile of various fruits and vegetables sitting on a table.</s>
+response_508: 
+ A close-up of food that includes chopped meat and sliced vegetables.</s>
+response_509: 
+ A group of boats floating in a body of water.</s>
+response_510: 
+ A laptop that is sitting on a table.</s>
+response_511: 
+ A plate topped with two slices of bread.</s>
+response_512: 
+ A group of zebra walking in a field.</s>
+response_513: 
+ Two young boys with their picture taken in front of them.</s>
+response_514: 
+ A train station with a train approaching it.</s>
+response_515: 
+ A man riding a skateboard on a sidewalk.</s>
+response_516: 
+ Two zebras standing in a field next to each other.</s>
+response_517: 
+ A man riding skis down the side of a snow covered slope.</s>
+response_518: 
+ A person holding an umbrella that is also holding a cell phone.</s>
+response_519: 
+ A group of people riding skis on top of a snow covered slope.</s>
+response_520: 
+ A woman sitting down with her arms crossed in front of her.</s>
+response_521: 
+ A man riding a snowboard down a snow covered slope.</s>
+response_522: 
+ The sheep are grazing in the pasture  during a sunny day.</s>
+response_523: 
+ A herd of cattle grazing on a grass covered field.</s>
+response_524: 
+ A giraffe standing next to a tree in a  field.</s>
+response_525: 
+ A street with some very big windows and a couple of people.</s>
+response_526: 
+ A large elephant is shown walking through a field.</s>
+response_527: 
+ A plate topped with lots of food on a table.</s>
+response_528: 
+ A large jetliner sitting on top of an airport tarmac.</s>
+response_529: 
+ A desktop computer sitting on top of a desk.</s>
+response_530: 
+ A person who is skiing down a snowy hill.</s>
+response_531: 
+ A clock tower with a clock on the front.</s>
+response_532: 
+ A black bird is sitting on branch of a tree</s>
+response_533: 
+ A man sitting with his legs spread out on a chair.</s>
+response_534: 
+ A large clock tower with two clocks on each of it's sides.</s>
+response_535: 
+ A lush green field surrounded by a forest.</s>
+response_536: 
+ A living room filled with furniture and a dining room.</s>
+response_537: 
+ A living room with various pieces of furniture.</s>
+response_538: 
+ A living room filled with furniture and a TV.</s>
+response_539: 
+ A group of electronic devices are gathered together.</s>
+response_540: 
+ A large jetliner sitting on top of an airport runway.</s>
+response_541: 
+ A woman standing in front of a table with a bowl of food.</s>
+response_542: 
+ A group of zebra grazing on a grass covered field.</s>
+response_543: 
+ A view of the sky with a few clouds .</s>
+response_544: 
+ A cat is sitting on a couch on a sunny day.</s>
+response_545: 
+ A view of a street in the daytime, looks to be winter.</s>
+response_546: 
+ A large plane is flying in the sky.</s>
+response_547: 
+ A cat is looking at something over the camera.</s>
+response_548: 
+ A baseball player standing on a field during a game.</s>
+response_549: 
+ A man standing on a lush green field under a blue sky.</s>
+response_550: 
+ A dog is holding a piece of food in it's paw.</s>
+response_551: 
+ A pile of fresh produce sitting on top of a table.</s>
+response_552: 
+ A group of people sitting around a table with plates of food.</s>
+response_553: 
+ A large elephant walking through a grassy field.</s>
+response_554: 
+ A group of flowers standing next to each other.</s>
+response_555: 
+ A train traveling down train tracks near a forest.</s>
+response_556: 
+ A herd of zebra standing next to each other.</s>
+response_557: 
+ A field full of sheep grazing on the grass.</s>
+response_558: 
+ Two giraffes standing next to each other in front of trees.</s>
+response_559: 
+ A bathroom with a sink, mirror, and toilet.</s>
+response_560: 
+ A store with chairs and tables inside of it</s>
+response_561: 
+ A woman sitting down and smiling for the camera.</s>
+response_562: 
+ A living room with a sofa, chairs, coffee table, and television.</s>
+response_563: 
+ A bathroom with a toilet and a sink.</s>
+response_564: 
+ A giraffe standing next to a tree in a forest.</s>
+response_565: 
+ A man holding a tennis racquet on a tennis court.</s>
+response_566: 
+ A close up of a sheep with a grassy field in the background.</s>
+response_567: 
+ A horse is standing in a grassy field.</s>
+response_568: 
+ A large bird sits in the grass on a sunny day.</s>
+response_569: 
+ A man sits on a bench in a park</s>
+response_570: 
+ A plate of food on a table</s>
+response_571: 
+ A toothbrush and a cup sitting on a table.</s>
+response_572: 
+ A giraffe standing on top of a lush green field.</s>
+response_573: 
+ A boy in a grass field with a smile on his face.</s>
+response_574: 
+ A woman standing with her hands by her sides.</s>
+response_575: 
+ The zebra is standing alone outside near the wooded area.</s>
+response_576: 
+ A herd of elephants grazing on a grass covered field.</s>
+response_577: 
+ A close up of a cow's face</s>
+response_578: 
+ A man riding on the back of a brown horse.</s>
+response_579: 
+ A bear is standing in the woods looking at the camera</s>
+response_580: 
+ A bunch of kites flying in the sky.</s>
+response_581: 
+ A herd of cattle grazing on a lush green field.</s>
+response_582: 
+ A herd of sheep walking down a road together.</s>
+response_583: 
+ A group of people walking around on sand dunes.</s>
+response_584: 
+ A baseball player is holding his bat ready to swing.</s>
+response_585: 
+ A close up of two birds standing next to each other.</s>
+response_586: 
+ A baby elephant is walking on all fours.</s>
+response_587: 
+ A woman is putting something on a child's plate.</s>
+response_588: 
+ A pile of various fruits and vegetables sitting on a table.</s>
+response_589: 
+ A plate of food on a table</s>
+response_590: 
+ A fire hydrant is sitting on a sidewalk near a building.</s>
+response_591: 
+ A herd of cattle standing around in a field.</s>
+response_592: 
+ An old city with buildings and a castle.</s>
+response_593: 
+ A man riding skis down a snow covered slope.</s>
+response_594: 
+ A large gray truck driving down a city street.</s>
+response_595: 
+ A bus driving down the street near a building.</s>
+response_596: 
+ A man sitting down while he eats a meal.</s>
+response_597: 
+ A close up view of a very cute animal.</s>
+response_598: 
+ A man sitting on a bench next to a  fence.</s>
+response_599: 
+ A black and white picture of a large bird.</s>
+response_600: 
+ A group of cars driving down a street.</s>
+response_601: 
+ An airplane flying in the sky near land.</s>
+response_602: 
+ The woman is walking beside a parked car.</s>
+response_603: 
+ A woman standing in front of a building.</s>
+response_604: 
+ A cat is sitting on a windowsill looking out.</s>
+response_605: 
+ A variety of flower vases filled with different flowers.</s>
+response_606: 
+ A brown bear standing in a grassy area.</s>
+response_607: 
+ A toilet with the seat down in a bathroom.</s>
+response_608: 
+ A man riding a wave on top of a surfboard.</s>
+response_609: 
+ A group of people playing soccer in a field.</s>
+response_610: 
+ A street with cars parked on the side of the road</s>
+response_611: 
+ A man riding a skateboard down a street.</s>
+response_612: 
+ A street with cars and trees and some houses</s>
+response_613: 
+ A group of giraffes walk around in an enclosure</s>
+response_614: 
+ A brown bear standing in a grassy field.</s>
+response_615: 
+ A herd of zebra grazing on a grass covered field.</s>
+response_616: 
+ A surfer riding a small wave in the ocean.</s>
+response_617: 
+ Two women sitting on bench in a park</s>
+response_618: 
+ A large clock tower towering over a city.</s>
+response_619: 
+ A man riding a skateboard on a cement ramp.</s>
+response_620: 
+ A bed with sheets and pillows in a bedroom.</s>
+response_621: 
+ People are standing in front of a fence as if waiting to enter a park.</s>
+response_622: 
+ Two birds are standing in the grass near each other.</s>
+response_623: 
+ A group of electronic devices are gathered together.</s>
+response_624: 
+ A man riding skis on top of a snow covered slope.</s>
+response_625: 
+ A living room with a couch, chairs, and tables.</s>
+response_626: 
+ A man riding a wave on top of a surfboard.</s>
+response_627: 
+ A large brown bear walking through a forest.</s>
+response_628: 
+ A pizza that is sitting on a table.</s>
+response_629: 
+ A large number of bicycles in a parking lot.</s>
+response_630: 
+ A large bear standing on a field next to a hillside.</s>
+response_631: 
+ A large body of water with lots of boats floating on it.</s>
+response_632: 
+ A bathroom with a toilet, sink and mirror.</s>
+response_633: 
+ A large building with a clock tower on top.</s>
+response_634: 
+ A pizza sitting on top of a white plate.</s>
+response_635: 
+ A group of people riding skis on top of a snow covered slope.</s>
+response_636: 
+ A surfer is riding a wave in the ocean.</s>
+response_637: 
+ A living room filled with furniture and a book shelf.</s>
+response_638: 
+ A man riding a wave on top of a surfboard.</s>
+response_639: 
+ A woman with a determined look on her face.</s>
+response_640: 
+ A group of people sitting on top of beach near the ocean.</s>
+response_641: 
+ A large brown bear laying on top of a bed.</s>
+response_642: 
+ A group of people standing next to each other.</s>
+response_643: 
+ A living room filled with furniture and pictures in frames on the wall.</s>
+response_644: 
+ A plate of donuts are sitting on a table.</s>
+response_645: 
+ A group of people standing around a table covered in food.</s>
+response_646: 
+ A white toilet sitting next to a bath tub in a bathroom.</s>
+response_647: 
+ A large clock mounted to the side of a building.</s>
+response_648: 
+ A close up of a piece of a broken wall.</s>
+response_649: 
+ A small kitchen with a breakfast bar and a stove.</s>
+response_650: 
+ A boy is eating a piece of food</s>
+response_651: 
+ A train car sitting on a track during the day.</s>
+response_652: 
+ A herd of zebra standing next to each other.</s>
+response_653: 
+ A man riding a skateboard on a ramp.</s>
+response_654: 
+ A large jetliner sitting on top of a tarmac.</s>
+response_655: 
+ A large jet sitting on top of an airport runway.</s>
+response_656: 
+ A group of penguins standing around in a group.</s>
+response_657: 
+ A woman holding a tennis racket in her hands.</s>
+response_658: 
+ A living room with a desk and oven in it.</s>
+response_659: 
+ A large truck is parked in a lot.</s>
+response_660: 
+ A man on a skateboard who is performing a trick.</s>
+response_661: 
+ Three sheep graze in a grassy field with trees in the background.</s>
+response_662: 
+ A bathroom with a sink, mirror, and tub.</s>
+response_663: 
+ A black bird standing on a tree branch.</s>
+response_664: 
+ A group of people standing in a field.</s>
+response_665: 
+ A computer desk topped with lots of electronics devices.</s>
+response_666: 
+ A zebra standing on top of a grass covered field.</s>
+response_667: 
+ A woman holding a baby in her arms.</s>
+response_668: 
+ A woman standing next to a potted plant.</s>
+response_669: 
+ A group of brown horses grazing in a green field.</s>
+response_670: 
+ A very old fire hydrant in a field.</s>
+response_671: 
+ A baseball player is getting ready to hit a ball.</s>
+response_672: 
+ A man in a white shirt and grey pants in a wide stance with one leg raised.</s>
+response_673: 
+ A large body of water next to a city.</s>
+response_674: 
+ A man holding a tennis racquet on a tennis court.</s>
+response_675: 
+ a couple of women are sitting in a room</s>
+response_676: 
+ Three giraffes standing near each other in an enclosure.</s>
+response_677: 
+ A person on a skateboard doing a trick.</s>
+response_678: 
+ A desktop computer is sitting on top of a desk.</s>
+response_679: 
+ A table with chairs and vases on top.</s>
+response_680: 
+ A train traveling down train tracks near a forest.</s>
+response_681: 
+ A group of giraffes walk in the grass.</s>
+response_682: 
+ A clock that is on the side of a building.</s>
+response_683: 
+ A mama bear and her baby interacting with each other.</s>
+response_684: 
+ A bathroom with a toilet, sink and bathtub.</s>
+response_685: 
+ A tall clock tower sitting under a bridge in a city.</s>
+response_686: 
+ A computer desk topped with a monitor and a mouse.</s>
+response_687: 
+ A laptop that is sitting on a desk.</s>
+response_688: 
+ A woman smiling and posing in a room</s>
+response_689: 
+ A tree with a lot of leaves around it.</s>
+response_690: 
+ A bed with two pillows and cover with an additional bed set on the side.</s>
+response_691: 
+ A close-up of a tray of food containing broccoli.</s>
+response_692: 
+ Three young giraffes are close together in the woods.</s>
+response_693: 
+ a couple of giraffes are standing in a field</s>
+response_694: 
+ Three sheep standing next to each other on a field.</s>
+response_695: 
+ A man riding a snowboard down a snow covered slope.</s>
+response_696: 
+ A woman sitting down while holding a cell phone in her hands.</s>
+response_697: 
+ A zebra is standing in the middle of a grassy field.</s>
+response_698: 
+ A man riding skis down a snow covered slope.</s>
+response_699: 
+ A man looking up at the sky on a sunny day.</s>
+response_700: 
+ A black motorcycle sits on the side of a road.</s>
+response_701: 
+ A man riding a skateboard on a dirt field.</s>
+response_702: 
+ A zebra standing in a dirt field under a tree.</s>
+response_703: 
+ A close-up of a plate of food containing broccoli.</s>
+response_704: 
+ A woman with a white shirt and pink sweater.</s>
+response_705: 
+ A plate of fruit is very appealing and refreshing.</s>
+response_706: 
+ A cat sitting in the window of a car.</s>
+response_707: 
+ A clock is on top of a building and is angled sideways.</s>
+response_708: 
+ A city street with cars parked on the side of the road</s>
+response_709: 
+ A man riding skis on top of a snow covered slope.</s>
+response_710: 
+ A living room filled with furniture and kitchen appliances.</s>
+response_711: 
+ A group of people riding horses on top of a sandy beach.</s>
+response_712: 
+ A bunch of bananas are bunched together to be sold.</s>
+response_713: 
+ A large clock with many symbols on it</s>
+response_714: 
+ A group of buses parked in front of a building.</s>
+response_715: 
+ A white bathroom with a toilet and a wall.</s>
+response_716: 
+ A street scene with people standing in the street.</s>
+response_717: 
+ A man sitting on a bench next to a bunch of chairs.</s>
+response_718: 
+ A man on skis skiing on a snowy slope</s>
+response_719: 
+ A boy flying a kite at the beach.</s>
+response_720: 
+ A man holding a tennis racquet on top of a court.</s>
+response_721: 
+ A group of people riding down a snow covered slope.</s>
+response_722: 
+ A train traveling down train tracks near a forest.</s>
+response_723: 
+ A pile of apples sitting on top of a table.</s>
+response_724: 
+ A living room with a view of the kitchen and a great view of the counters.</s>
+response_725: 
+ A bathroom with two sinks under a window.</s>
+response_726: 
+ A black bear standing in a field.</s>
+response_727: 
+ A group of people standing on a street corner.</s>
+response_728: 
+ A bathroom with a toilet and a shower.</s>
+response_729: 
+ A woman standing in a room with a smile on her face.</s>
+response_730: 
+ A dog looks up while he is laying down.</s>
+response_731: 
+ A large clock tower with a clock on it's side.</s>
+response_732: 
+ A group of giraffes wanders around in a field.</s>
+response_733: 
+ A bus parked on the side of the street.</s>
+response_734: 
+ A person on a skateboard on a ramp.</s>
+response_735: 
+ A man riding a snowboard down a snow covered slope.</s>
+response_736: 
+ A plate of food on a table</s>
+response_737: 
+ A man holding a baseball bat on a field.</s>
+response_738: 
+ A small airplane flying over a grassy field.</s>
+response_739: 
+ A baseball player is getting ready to hit a ball.</s>
+response_740: 
+ A train that is rolling down the track under a clear blue sky.</s>
+response_741: 
+ A man is eating something held in his hand.</s>
+response_742: 
+ A white bathroom with a toilet and a white wall.</s>
+response_743: 
+ A baseball player pitching a ball on top of a field.</s>
+response_744: 
+ A street with cars parked on the side of it</s>
+response_745: 
+ A small airplane sitting on top of a tarmac.</s>
+response_746: 
+ A herd of zebra walking across a field.</s>
+response_747: 
+ A table full of food at a dinner for four.</s>
+response_748: 
+ A baseball player standing on a field with a glove.</s>
+response_749: 
+ A plate of mixed fruit is seen in this picture.</s>
+response_750: 
+ A child's face with a close up of the mouth.</s>
+response_751: 
+ A clock tower that is in the middle of a town.</s>
+response_752: 
+ A few large trucks on a city street.</s>
+response_753: 
+ A kitchen with a center island next to a  dinning room table.</s>
+response_754: 
+ A giraffe that is standing by the trees.</s>
+response_755: 
+ A bear standing in the grass near a river.</s>
+response_756: 
+ A man riding a skateboard on top of a wooden floor.</s>
+response_757: 
+ A clock with two faces and a large clock above a smaller clock.</s>
+response_758: 
+ A group of giraffes are grazing in the grass.</s>
+response_759: 
+ A man standing on a tennis court holding a racquet.</s>
+response_760: 
+ A close up of a giraffe's face</s>
+response_761: 
+ A baseball player holding a bat on a field.</s>
+response_762: 
+ A bear sits in the woods looking at the camera</s>
+response_763: 
+ A close-up of a plate of food containing broccoli.</s>
+response_764: 
+ A pile of storage trunks sitting in a bedroom.</s>
+response_765: 
+ A plate full of broccoli is seen in this picture.</s>
+response_766: 
+ A woman with a head covering is standing there.</s>
+response_767: 
+ A computer mouse and keyboard on a table.</s>
+response_768: 
+ A desktop computer that is sitting on a desk.</s>
+response_769: 
+ A group of flowers standing next to each other.</s>
+response_770: 
+ A young girl sits down with her legs crossed over one another.</s>
+response_771: 
+ A man riding a skateboard down a sidewalk.</s>
+response_772: 
+ A man surfing in the ocean on a large wave.</s>
+response_773: 
+ A sink with dishes in a kitchen</s>
+response_774: 
+ A woman standing in a kitchen preparing food.</s>
+response_775: 
+ A bathroom that has a toilet and a sink.</s>
+response_776: 
+ A large clock tower under a cloudy sky.</s>
+response_777: 
+ A man swinging a tennis racquet on top of a tennis court.</s>
+response_778: 
+ A large clock tower towering over a small city.</s>
+response_779: 
+ A man on a surf board in the water.</s>
+response_780: 
+ A baseball player standing on a field during a game.</s>
+response_781: 
+ A bathroom with a sink, mirror, and toilet in it.</s>
+response_782: 
+ A tennis racket being held by a person.</s>
+response_783: 
+ A bathroom with a toilet, sink and bathtub.</s>
+response_784: 
+ A table full of various foods is set for a meal.</s>
+response_785: 
+ A table topped with lots of different fruits.</s>
+response_786: 
+ Two horses standing beside each other in a field.</s>
+response_787: 
+ A group of zebras standing together in the grass.</s>
+response_788: 
+ A bird that is standing in the grass.</s>
+response_789: 
+ A large tray holding various types of food</s>
+response_790: 
+ A street filled with lots of different types of vehicles.</s>
+response_791: 
+ A group of people standing next to each other.</s>
+response_792: 
+ A computer desk topped with a monitor and a mouse.</s>
+response_793: 
+ A bus that is sitting in the street.</s>
+response_794: 
+ A kite flying high in the air on a cloudy day.</s>
+response_795: 
+ Two animals standing next to each other in the grass.</s>
+response_796: 
+ A group of giraffes stand in a field.</s>
+response_797: 
+ An old train is sitting on the tracks.</s>
+response_798: 
+ A group of young children sitting next to each other.</s>
+response_799: 
+ An elephant is standing in a wooded area.</s>
+response_800: 
+ A group of men are standing around having a conversation.</s>
+response_801: 
+ A person playing tennis on an outdoor tennis court.</s>
+response_802: 
+ A surfer is riding a wave in the ocean.</s>
+response_803: 
+ A laptop computer sitting on top of a desk.</s>
+response_804: 
+ Three children standing next to each other in a room.</s>
+response_805: 
+ A group of zebras standing in a field.</s>
+response_806: 
+ A group of people riding skis on top of a snow covered slope.</s>
+response_807: 
+ A brown bear sleeping in the grass .</s>
+response_808: 
+ A large number of plants in a open area</s>
+response_809: 
+ A bed that is in a very nice room.</s>
+response_810: 
+ A view of a bunch of chairs in a large room.</s>
+response_811: 
+ A train traveling down train tracks next to a forest.</s>
+response_812: 
+ A man holding a frisbee in his hands.</s>
+response_813: 
+ A close-up of a plate of food containing broccoli.</s>
+response_814: 
+ A view of a water hole in the middle of a dry area.</s>
+response_815: 
+ A group of horses walking down a dirt road.</s>
+response_816: 
+ A stop sign is shown in a close up shot.</s>
+response_817: 
+ A woman standing in front of a building.</s>
+response_818: 
+ An elephant is standing in the grass near rocks.</s>
+response_819: 
+ A bedroom with a bed, table, dresser, and television.</s>
+response_820: 
+ A dog with a sad look on its face in a car.</s>
+response_821: 
+ A man is holding a frisbee in a field.</s>
+response_822: 
+ A cow that is laying down in the grass.</s>
+response_823: 
+ A herd of sheep grazing on a lush green field.</s>
+response_824: 
+ A trail that is going through the woods.</s>
+response_825: 
+ A kitchen with lots of counter top space.</s>
+response_826: 
+ A surfer is riding a small wave in the ocean.</s>
+response_827: 
+ A skateboarder is in the air riding a skateboard ramp.</s>
+response_828: 
+ A woman is standing outside holding a frisbee.</s>
+response_829: 
+ A table that has some food on it.</s>
+response_830: 
+ A man in a suit looking serious with a tie</s>
+response_831: 
+ A cat is sitting on a computer desk with a computer.</s>
+response_832: 
+ A man with a serious look on his face.</s>
+response_833: 
+ A herd of zebra grazing on top of a field.</s>
+response_834: 
+ A pizza with toppings served on a tray</s>
+response_835: 
+ A clock tower with a clock on the top.</s>
+response_836: 
+ A piece of food sitting on a plate.</s>
+response_837: 
+ A large boat on a body of water.</s>
+response_838: 
+ A kitchen filled with lots of counter top space.</s>
+response_839: 
+ A quiet city street with no people or cars</s>
+response_840: 
+ A line of buses on the side of the road.</s>
+response_841: 
+ A pizza that is sitting on a pizza pan.</s>
+response_842: 
+ A black cat is sitting on a ledge</s>
+response_843: 
+ A crowd of people standing next to each other on a field.</s>
+response_844: 
+ A kitchen with workers preparing food in aprons.</s>
+response_845: 
+ A man surfing a wave in the ocean.</s>
+response_846: 
+ An office space with a desk and a computer.</s>
+response_847: 
+ A fire hydrant with a greyish color on a sidewalk.</s>
+response_848: 
+ A man riding a wave on a surfboard in the ocean.</s>
+response_849: 
+ A table with plates of food on it</s>
+response_850: 
+ A large clock mounted to the side of a clock tower.</s>
+response_851: 
+ A computer desk is shown with a monitor.</s>
+response_852: 
+ A man riding skis down a snow covered slope.</s>
+response_853: 
+ A man in a uniform skiing on a slope</s>
+response_854: 
+ A clock tower with a clock on the top of it.</s>
+response_855: 
+ A group of trees are in the background near the water.</s>
+response_856: 
+ a couple of buses are parked by a building</s>
+response_857: 
+ The view of a kitchen from outside a window.</s>
+response_858: 
+ A bird sits on a ledge near the bark.</s>
+response_859: 
+ A group of men sitting next to each other on a field.</s>
+response_860: 
+ A woman holding a tennis racquet on top of a tennis court.</s>
+response_861: 
+ A group of people walking down a street at night.</s>
+response_862: 
+ A person on a surfboard in the water.</s>
+response_863: 
+ A herd of zebra standing next to each other on a field.</s>
+response_864: 
+ A lush green field next to a forest.</s>
+response_865: 
+ Two people riding horses with trees in the background.</s>
+response_866: 
+ A kitchen with a large mirror on the wall.</s>
+response_867: 
+ A group of men are playing baseball on a field.</s>
+response_868: 
+ A bathroom with sinks, mirrors and windows.</s>
+response_869: 
+ A man is standing with his hands in his pockets.</s>
+response_870: 
+ A bathroom with a sink, mirror, and tub.</s>
+response_871: 
+ A close-up of a plate of food containing vegetables.</s>
+response_872: 
+ A dog sits alone on a sidewalk next to a building.</s>
+response_873: 
+ A group of people riding skis on top of a slope.</s>
+response_874: 
+ A train traveling down train tracks near a  field.</s>
+response_875: 
+ A group of trees in the woods.</s>
+response_876: 
+ A desktop computer with keyboard and mouse separate on a desk</s>
+response_877: 
+ A view of a lake with trees in the background.</s>
+response_878: 
+ A group of flowers standing next to each other.</s>
+response_879: 
+ A fire hydrant on a street with houses in the background.</s>
+response_880: 
+ A cat is sitting comfortably on a couch.</s>
+response_881: 
+ A giraffe standing in the brush looking around.</s>
+response_882: 
+ A small airplane flying through a blue sky.</s>
+response_883: 
+ An airplane sitting on a runway in an airport.</s>
+response_884: 
+ A kitchen with a stove, oven, and refrigerator.</s>
+response_885: 
+ A wave breaks in the ocean, displaying the power of the water.</s>
+response_886: 
+ A kitchen with a center island next to a dining room.</s>
+response_887: 
+ A surfer is riding a wave in the ocean.</s>
+response_888: 
+ A plate topped with three pieces of cake on a table.</s>
+response_889: 
+ A lone bird sits in the middle of a dirt field.</s>
+response_890: 
+ A street view of a bunch of cars driving on the road.</s>
+response_891: 
+ A zebra that is standing in the dirt.</s>
+response_892: 
+ A group of zebras standing close to each other.</s>
+response_893: 
+ Three zebras standing next to each other in a field.</s>
+response_894: 
+ A group of planes flying in the sky</s>
+response_895: 
+ A sheep that is laying down in the grass.</s>
+response_896: 
+ A large display of donuts is shown for sale.</s>
+response_897: 
+ A group of young children sitting next to each other.</s>
+response_898: 
+ A woman holding a tennis racquet on a tennis court.</s>
+response_899: 
+ Two sheep graze in a field during a clear day.</s>
+response_900: 
+ A kitchen with lots of counter top space.</s>
+response_901: 
+ A woman smiling in a quaint fashion.</s>
+response_902: 
+ A computer desk topped with a monitor and a mouse.</s>
+response_903: 
+ A man is playing in the grass with a frisbee.</s>
+response_904: 
+ A large body of water in the distance.</s>
+response_905: 
+ A large white airplane is parked in a field.</s>
+response_906: 
+ A crowd of people standing around a street.</s>
+response_907: 
+ A bathroom with a shower and a sink.</s>
+response_908: 
+ A train traveling down train tracks near a forest.</s>
+response_909: 
+ A herd of zebra grazing on a grass covered field.</s>
+response_910: 
+ A living room with a couch, chairs, and tables.</s>
+response_911: 
+ A plate of food on a table with other plates and bowls near by.</s>
+response_912: 
+ A man standing in front of a store with a sign.</s>
+response_913: 
+ A man getting ready to return a tennis ball in a tennis game.</s>
+response_914: 
+ The bus has a lot of graffiti on it.</s>
+response_915: 
+ A woman holding a surfboard next to a beach.</s>
+response_916: 
+ A man riding skis down a snow covered slope.</s>
+response_917: 
+ A man riding a snowboard down a snow covered slope.</s>
+response_918: 
+ A dirt road going through a mountain range.</s>
+response_919: 
+ A large animal is standing in front of a building.</s>
+response_920: 
+ A large assortment of clothing sitting on a table.</s>
+response_921: 
+ A display in a store filled with lots of different items.</s>
+response_922: 
+ A bed with a white blanket and a pillow.</s>
+response_923: 
+ A group of people standing next to each other.</s>
+response_924: 
+ A zebra standing on top of a grass covered field.</s>
+response_925: 
+ A kite flying in the sky over a body of water.</s>
+response_926: 
+ A plate of fruit is very appealing and healthy.</s>
+response_927: 
+ A double bus is parked on the street.</s>
+response_928: 
+ A man riding a snowboard down the side of a snow covered slope.</s>
+response_929: 
+ A group of people standing next to each other.</s>
+response_930: 
+ A surfer is riding a wave in the ocean.</s>
+response_931: 
+ A group of birds standing next to each other in the grass.</s>
+response_932: 
+ A man with a baseball bat on a field.</s>
+response_933: 
+ A glass of wine is sitting on a table.</s>
+response_934: 
+ A train traveling down train tracks near a forest.</s>
+response_935: 
+ A kitchen with a center island next to a  dinning room table.</s>
+response_936: 
+ A park with benches, grass and trees.</s>
+response_937: 
+ A man holding a surfboard while standing on a beach.</s>
+response_938: 
+ A man in a park who is about to throw a frisbee.</s>
+response_939: 
+ A herd of sheep grazing on a lush green field.</s>
+response_940: 
+ The zebras are grazing on the grassy field.</s>
+response_941: 
+ An elephant standing in a body of water.</s>
+response_942: 
+ A man standing on a baseball field holding a bat.</s>
+response_943: 
+ A cluttered bookshelf with various books and objects.</s>
+response_944: 
+ A group of people riding bikes down a street.</s>
+response_945: 
+ A group of people are sitting in a public area.</s>
+response_946: 
+ A man riding skis down a snow covered slope.</s>
+response_947: 
+ A child looks into the camera and smiles.</s>
+response_948: 
+ A man is getting ready to ride a surfboard.</s>
+response_949: 
+ A group of people standing next to each other.</s>
+response_950: 
+ A woman walking down a street next to other people.</s>
+response_951: 
+ Two giraffes standing next to each other in a wooded area.</s>
+response_952: 
+ A bathroom with a shower and a sink.</s>
+response_953: 
+ A person on a motorcycle on a road.</s>
+response_954: 
+ A man holding a tennis racquet on a tennis court.</s>
+response_955: 
+ A woman with brown hair in a framed picture.</s>
+response_956: 
+ A small computer desk is shown in a dark room.</s>
+response_957: 
+ A group of zebras are walking around a dirt field.</s>
+response_958: 
+ A bus driving down a street next to a tall tree.</s>
+response_959: 
+ A large bedroom with windows all over the wall.</s>
+response_960: 
+ A beach with people flying kites in the distance.</s>
+response_961: 
+ A group of people riding skis on top of a snow covered slope.</s>
+response_962: 
+ A herd of cattle standing on top of a grass covered field.</s>
+response_963: 
+ A close up of a plate of food on a table.</s>
+response_964: 
+ A fighter jet flying through the air on a clear day.</s>
+response_965: 
+ A group of people riding skis on top of a snow covered slope.</s>
+response_966: 
+ A kitchen with a refrigerator and a microwave.</s>
+response_967: 
+ A black and white photo of a motorcycle.</s>
+response_968: 
+ A group of people on skis standing in the snow.</s>
+response_969: 
+ A passenger train sits on the tracks at a station.</s>
+response_970: 
+ A group of sheep grazing in a field.</s>
+response_971: 
+ A man holding a tennis racquet on a tennis court.</s>
+response_972: 
+ An assortment of boats are parked near the ocean.</s>
+response_973: 
+ A group of people riding bikes down a street.</s>
+response_974: 
+ A bird and a dog on a dirty sidewalk.</s>
+response_975: 
+ A man is eating something with his spoon.</s>
+response_976: 
+ A small cow standing in a field of grass.</s>
+response_977: 
+ A group of people riding skis down a snow covered slope.</s>
+response_978: 
+ A train going down the train track.</s>
+response_979: 
+ The giraffe is standing alone in the field.</s>
+response_980: 
+ A bathroom with a toilet and a sink.</s>
+response_981: 
+ A living room filled with furniture and a large window.</s>
